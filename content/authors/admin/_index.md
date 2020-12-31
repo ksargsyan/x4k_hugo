@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Khachik Sargsyan
+title: Khachik Sargsyan
 
 # Username (this should match the folder name)
 authors:
@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:ksargsy@sandia.gov" #'#contact'  # For a direct email link, use "mailto:ksargsy@sandia.gov".
+  link: "mailto:ksargsy@sandia.gov" #'#contact'  
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
