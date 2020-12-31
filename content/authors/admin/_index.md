@@ -41,9 +41,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: "mailto:ksargsy@sandia.gov" #'#contact'  
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -65,6 +62,11 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/khachik-sargsyan-13a7161a/
+
+
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:ksargsy -at- sandia -dot- gov" #'#contact'  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
@@ -85,5 +87,6 @@ I am a Principal Member of Technical Staff at Sandia National Laboratories in Li
 
 My research evolves around uncertainty quantification (UQ), statistical learning and predictability analysis of physical and computational models. 
 I have developed and applied methods for model reduction, UQ and data assimilation, targeting fundamental challenges such as structural errors, intrinsic stochasticity, high-dimensionality, limited data, discontinuities, and rare events, with a range of applications including climate modeling, chemical kinetics, turbulent combustion, fusion science, hardware architecture simulation. 
+
 
 <!--Khachik is one of the lead developers of UQTk (www.sandia.gov/uqtoolkit), a lightweight C++/Python software toolkit for quantification of uncertainties in model predictions. He is an active member of SciDAC FASTMath Institute, and leads UQ efforts for DOE flagship earth system model, E3SM (www.e3sm.org), focusing on land model development. He has published over sixty peer-reviewed journal articles. -->
