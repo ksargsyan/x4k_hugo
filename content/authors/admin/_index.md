@@ -15,7 +15,7 @@ role: Principal Member of Technical Staff
 # Organizations/Affiliations
 organizations:
 - name: Sandia National Laboratories
-  url: "www.sandia.gov"
+  url: "https://www.sandia.gov"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
