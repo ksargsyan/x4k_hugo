@@ -95,7 +95,7 @@
 ### GENERAL
 
 #/Users/ksargsy/research/quest_dist/doc/talk/byu20
-#/Users/ksargsy/research/merr_dist/doc/sapienza_ss20
+/Users/ksargsy/research/merr_dist/doc/sapienza_ss20
 #/Users/ksargsy/research/quest_dist/doc/talk/umich18
 #/Users/ksargsy/research/quest_dist/doc/talk/slb16
 
