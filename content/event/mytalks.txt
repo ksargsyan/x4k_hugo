@@ -23,7 +23,7 @@
 ##/Users/ksargsy/research/ECC/common/presentations/kickoff/Sargsyan_ml.pdf
 ##/Users/ksargsy/research/ECC/common/presentations/2018_October_meeting/Sargsyan_ML.pdf
 ##/Users/ksargsy/Dropbox_SNL/Dropbox/Work/docs/Presentations/mine/MLtalk_Oct2019_sargsyan.pdf
-
+##/Users/ksargsy/Dropbox_SNL/Dropbox/Work/projects/ECC/Anharmonicity_ECC2020_mpnn_only.pptx
 
 ### CLIMATE
 
@@ -94,7 +94,7 @@
 
 ### GENERAL
 
-/Users/ksargsy/research/quest_dist/doc/talk/byu20
+#/Users/ksargsy/research/quest_dist/doc/talk/byu20
 #/Users/ksargsy/research/merr_dist/doc/sapienza_ss20
 #/Users/ksargsy/research/quest_dist/doc/talk/umich18
 #/Users/ksargsy/research/quest_dist/doc/talk/slb16
@@ -114,3 +114,7 @@
 
 #/Users/ksargsy/research/mp_dist/doc/quest_Apr2015
 
+
+### FUSMATML
+##/Users/ksargsy/research/fumat/doc/talk/kickoff/modeling
+##/Users/ksargsy/research/fumat/doc/talk/update_March2021
