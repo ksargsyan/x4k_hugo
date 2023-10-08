@@ -1,5 +1,5 @@
 ---
-title: Surrogate construction via Bayesian compressive sensing for the Community Land Model
+title: Surrogate Construction via Bayesian Compressive Sensing for the Community Land Model
 authors: ["Khachik Sargsyan, Cosmin Safta, Bert Debusschere, Habib Najm, Daniel Ricciuto, Peter Thornton"]
 event: UQ in Climate Workshop
 event_url: 

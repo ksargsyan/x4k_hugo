@@ -1,9 +1,9 @@
 ---
 title: Fast Evaluation of Many-Body Perturbation Integrals
 authors: ["Khachik Sargsyan, Prashant Rai, Habib Najm, S. Yoo Willow, Matthiew Hermes, So Hirata"]
-event: 
+event: QUEST Workshop, USC
 event_url: 
-location: 
+location: Los Angeles, CA
 summary: Talk
 abstract: "Fast Evaluation of Many-Body Perturbation Integrals (FEMPI)<br>"
 date: "2015-04-02"

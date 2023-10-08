@@ -1,6 +1,6 @@
 ---
 title: Embedded Model Error Representation for Bayesian Model Calibration
-authors: ["Khachik Sargsyan, Xun Huan, Habib Najm"]
+authors: ["Khachik Sargsyan, Xun Huan, Habib N. Najm"]
 abstract: "Conventional Bayesian calibration often assumes the computational model can replicate the true mechanism behind data generation. However,
 this idealization is generally not achieved for physical models since
 they carry misspecification due to different parameterizations

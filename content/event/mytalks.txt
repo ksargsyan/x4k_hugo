@@ -1,5 +1,31 @@
+### Neural ODE
+
+#/Users/sargsyan/Dropbox/Work/projects/NNRDS/repos/nn_rds/doc/review_June2021
+#/Users/sargsyan/Dropbox/Work/projects/NNRDS/repos/nn_rds/doc/review_Dec2021
+#/Users/sargsyan/Dropbox/Work/projects/NNRDS/repos/nn_rds/doc/review_May2022
+/Users/sargsyan/Dropbox/Work/projects/NNRDS/repos/nn_rds/doc/MLDL_2022
+#/Users/sargsyan/Dropbox/Work/projects/NNRDS/repos/nn_rds/doc/review_Dec2022
+#/Users/sargsyan/Dropbox/Work/projects/NNRDS/repos/nn_rds/doc/uncecomp_2023
+#/Users/sargsyan/Dropbox/Work/projects/NNRDS/repos/nn_rds/doc/review_Aug2023
+
+
+### MATERIAL SCI
+
+
+#/Users/sargsyan/Dropbox/Work/projects/FusMatML/repos/fumat/doc/talk/mmldt2021
+#/Users/sargsyan/Dropbox/Work/projects/FusMatML/repos/fumat/doc/talk/MITUQ_March2022
+#/Users/sargsyan/Dropbox/Work/projects/FusMatML/repos/fumat/doc/talk/cecam/khs
+#/Users/sargsyan/Dropbox/Work/projects/FusMatML/repos/fumat/doc/talk/siam_uq22
+#/Users/sargsyan/Dropbox/Work/projects/FusMatML/repos/fumat/doc/talk/usacm_mlip_Aug2022
+#/Users/sargsyan/Dropbox/Work/projects/FusMatML/repos/fumat/doc/talk/update_Jan2022
+#/Users/sargsyan/Dropbox/Work/projects/FusMatML/repos/fumat/doc/talk/fmuq_Jun2022
+#/Users/sargsyan/Dropbox/Work/projects/FusMatML/repos/fumat/doc/talk/usacm_mlip_Aug2022
+#/Users/sargsyan/Dropbox/Work/projects/FusMatML/repos/fumat/doc/talk/allhands_Sep2022
+#/Users/sargsyan/Dropbox/Work/projects/FusMatML/repos/fumat/doc/talk/siam_cse23
+
 ### MODEL ERROR
 
+#/Users/sargsyan/Dropbox/Work/docs/Presentations/mine/TES_DS
 #/Users/ksargsy/research/merr_dist/doc/siam_uq20
 #/Users/ksargsy/research/merr_dist/doc/siam_cse19
 #/Users/ksargsy/research/merr_dist/doc/siam_uq18
@@ -20,12 +46,19 @@
 
 ### CHEM ML
 
+#/Users/sargsyan/Dropbox/Work/projects/ECC/doc/talk/BES_CRF_May21
+#/Users/sargsyan/Dropbox/Work/projects/ECC/repos/kmc/doc/talk/annual_2021/model_anl
 ##/Users/ksargsy/research/ECC/common/presentations/kickoff/Sargsyan_ml.pdf
 ##/Users/ksargsy/research/ECC/common/presentations/2018_October_meeting/Sargsyan_ML.pdf
 ##/Users/ksargsy/Dropbox_SNL/Dropbox/Work/docs/Presentations/mine/MLtalk_Oct2019_sargsyan.pdf
-##/Users/ksargsy/Dropbox_SNL/Dropbox/Work/projects/ECC/Anharmonicity_ECC2020_mpnn_only.pptx
 
 ### CLIMATE
+
+/Users/sargsyan/Dropbox/Work/presentations/mine/scidac_Sep2023
+
+#/Users/sargsyan/Dropbox/Work/projects/OSCM/repos/cluq/doc/talk/agu21/calib
+#/Users/sargsyan/Dropbox/Work/projects/E3SM/Land_model_UQ/talks/E3SM_AllHands_20210527
+#/Users/sargsyan/Dropbox/Work/projects/E3SM/Land_model_UQ/talks/ESMD_20201028
 
 #/Users/ksargsy/research/cluq/doc/talk/siamcse21
 #/Users/ksargsy/research/cluq/doc/talk/agu20/lstm
@@ -95,7 +128,7 @@
 ### GENERAL
 
 #/Users/ksargsy/research/quest_dist/doc/talk/byu20
-/Users/ksargsy/research/merr_dist/doc/sapienza_ss20
+#/Users/ksargsy/research/merr_dist/doc/sapienza_ss20
 #/Users/ksargsy/research/quest_dist/doc/talk/umich18
 #/Users/ksargsy/research/quest_dist/doc/talk/slb16
 
@@ -114,7 +147,3 @@
 
 #/Users/ksargsy/research/mp_dist/doc/quest_Apr2015
 
-
-### FUSMATML
-##/Users/ksargsy/research/fumat/doc/talk/kickoff/modeling
-##/Users/ksargsy/research/fumat/doc/talk/update_March2021

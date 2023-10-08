@@ -12,5 +12,5 @@ tags:  []
 all_day:  false
 featured:  false
 math:  true
-url_pdf: "files/icosahmo14.pdf"
+url_pdf: ""
 ---

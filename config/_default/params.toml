@@ -26,7 +26,7 @@ font = ""
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "M"
+font_size = "S"
 
 ############################
 ## Basic Info
@@ -94,7 +94,7 @@ phone = ""
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
 # address = {street = "P.O. Box 969, MS 9051", city = "Livermore", region = "CA", postcode = "94550", country = "United States", country_code = "US"}
-address = {street = "Working remotely (Eastern Time zone)", city = "out of Brooklyn", region = "NY", country = "USA"}
+address = {street = "Working remotely (Eastern Time zone)", city = "out of Queens", region = "NY", country = "USA"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -151,7 +151,7 @@ address_format = "en-us"
 main_menu = {align = "r", show_logo = true, highlight_active_link = true, show_language = false, show_day_night = true, show_search = true}
 
 # Show estimated reading time for posts? (true/false)
-reading_time = true
+reading_time = false
 
 # Display next/previous section pager? (true/false)
 section_pager = false

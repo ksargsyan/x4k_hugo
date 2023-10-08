@@ -1,10 +1,10 @@
 ---
 title: Dimensionality Reduction and Physics-Informed Neural Networks for Climate Land Models
-authors: []
+authors: ["Khachik Sargsyan, Cosmin Safta, Vishagan Ratnaswamy, Daniel M. Ricciuto"]
 
 event: SIAM CSE 21
-event_url: "AAA"
-location: Virtual
+event_url: https://www.siam.org/conferences/cm/conference/cse21
+location: virtual
 
 
 summary: Talk

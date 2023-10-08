@@ -1,5 +1,5 @@
 ---
-title: Surrogate-enabled sensitivity analysis and parameter inference of high-dimensional models
+title: Surrogate-enabled Sensitivity Analysis and Parameter Inference of High-Dimensional Models
 authors: ["Khachik Sargsyan, Cosmin Safta"]
 event: International Congress on Industrial and Applied Mathematics
 event_url: https://iciam2019.org/

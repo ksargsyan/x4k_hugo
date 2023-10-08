@@ -83,7 +83,7 @@ user_groups:
 - Visitors
 ---
 
-I am a Principal Member of Technical Staff at Sandia National Laboratories in Livermore, California (currently remote-working from Brooklyn, New York). 
+I am a Principal Member of Technical Staff at Sandia National Laboratories in Livermore, California (currently remote-working from Queens, New York). 
 
 My research evolves around uncertainty quantification (UQ), statistical learning and predictability analysis of physical and computational models. 
 I have developed and applied methods for model reduction, UQ and data assimilation, targeting fundamental challenges such as structural errors, intrinsic stochasticity, high-dimensionality, limited data, discontinuities, and rare events, with a range of applications including climate modeling, chemical kinetics, turbulent combustion, fusion science, hardware architecture simulation. 
