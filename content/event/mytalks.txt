@@ -56,7 +56,7 @@
 
 ### CLIMATE
 
-#/Users/sargsyan/Dropbox/Work/presentations/mine/scidac_Sep2023
+#/Users/sargsyan/Dropbox/Work/mytalks/scidac_Sep2023
 
 #/Users/sargsyan/Dropbox/Work/projects/OSCM/repos/cluq/doc/talk/agu21/calib
 #/Users/sargsyan/Dropbox/Work/projects/E3SM/Land_model_UQ/talks/E3SM_AllHands_20210527
