@@ -3,10 +3,12 @@
 #/Users/sargsyan/Dropbox/Work/projects/NNRDS/repos/nn_rds/doc/review_June2021
 #/Users/sargsyan/Dropbox/Work/projects/NNRDS/repos/nn_rds/doc/review_Dec2021
 #/Users/sargsyan/Dropbox/Work/projects/NNRDS/repos/nn_rds/doc/review_May2022
-/Users/sargsyan/Dropbox/Work/projects/NNRDS/repos/nn_rds/doc/MLDL_2022
+#/Users/sargsyan/Dropbox/Work/projects/NNRDS/repos/nn_rds/doc/MLDL_2022
 #/Users/sargsyan/Dropbox/Work/projects/NNRDS/repos/nn_rds/doc/review_Dec2022
 #/Users/sargsyan/Dropbox/Work/projects/NNRDS/repos/nn_rds/doc/uncecomp_2023
 #/Users/sargsyan/Dropbox/Work/projects/NNRDS/repos/nn_rds/doc/review_Aug2023
+#/Users/sargsyan/Dropbox/Work/projects/FMUQ/fmuq/fm5/doc/talk/fmath_allhands_2023
+#/Users/sargsyan/Dropbox/Work/projects/FMUQ/fmuq/fm5/doc/talk/fmuq_mtg_uqnn_2023
 
 
 ### MATERIAL SCI
@@ -54,7 +56,7 @@
 
 ### CLIMATE
 
-/Users/sargsyan/Dropbox/Work/presentations/mine/scidac_Sep2023
+#/Users/sargsyan/Dropbox/Work/presentations/mine/scidac_Sep2023
 
 #/Users/sargsyan/Dropbox/Work/projects/OSCM/repos/cluq/doc/talk/agu21/calib
 #/Users/sargsyan/Dropbox/Work/projects/E3SM/Land_model_UQ/talks/E3SM_AllHands_20210527

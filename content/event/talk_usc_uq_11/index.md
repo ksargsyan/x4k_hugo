@@ -1,16 +1,16 @@
 ---
 title: Predictability Assessment in Stochastic Reaction Networks
 authors: ["Khachik Sargsyan, Bert Debusschere, Habib Najm"]
-event: 
+event: Multiscale UQ Workshop University of Southern California
 event_url: 
-location: 
-summary: Poster
+location: Los Angeles, CA
+summary: Talk
 abstract: "Predictability Assessment in Stochastic Reaction Networks<br>"
-date: "None"
-publishDate: "None"
+date: "2011-03-07"
+publishDate: "2011-03-07"
 tags:  []
 all_day:  false
 featured:  false
 math:  true
-url_pdf: ""
+url_pdf: "files/2011_uscuq.pdf"
 ---
