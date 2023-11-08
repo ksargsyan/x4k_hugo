@@ -1,9 +1,9 @@
 ---
 title: Visualizing and Quantifying Uncertainty of Physics-aware Neural Networks
 authors: ["Khachik Sargsyan"]
-event: 
+event: 2023 FASTMath All Hands Meeting
 event_url: 
-location: 
+location: Denver, CO
 summary: Talk
 abstract: "<br>"
 date: "2023-11-02"

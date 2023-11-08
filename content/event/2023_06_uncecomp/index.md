@@ -14,5 +14,5 @@ tags:  []
 all_day:  false
 featured:  false
 math:  true
-url_pdf: "files/uncecomp_2023.pdf"
+url_pdf: "files/talks/2023_06_uncecomp.pdf"
 ---
