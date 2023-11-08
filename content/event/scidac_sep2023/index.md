@@ -13,5 +13,5 @@ tags:  []
 all_day:  false
 featured:  false
 math:  true
-url_pdf: "files/2023_scidac.pdf"
+url_pdf: "2023_scidac.pdf"
 ---
