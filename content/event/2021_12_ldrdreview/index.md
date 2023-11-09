@@ -3,7 +3,7 @@ title: Analysis of Neural Networks as Random Dynamical Systems
 authors: ["Khachik Sargsyan"]
 event: LDRD Review
 event_url: 
-location: Albuquerque, NM (virtual)
+location: (virtual) Albuquerque, NM
 summary: Talk
 abstract: "<br>"
 date: "2021-12-09"
