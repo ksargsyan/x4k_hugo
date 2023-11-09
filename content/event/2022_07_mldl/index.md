@@ -12,5 +12,6 @@ tags:  []
 all_day:  false
 featured:  false
 math:  true
-url_pdf: ""
+url_pdf: "files/talks/2022_07_mldl"
+loc: "$WW/projects/NNRDS/repos/nn_rds/doc/MLDL_2022"
 ---
