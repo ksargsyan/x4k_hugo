@@ -15,4 +15,5 @@ all_day:  false
 featured:  false
 math:  true
 url_pdf: "files/talks/2023_06_uncecomp.pdf"
+loc: "$WW/projects/NNRDS/repos/nn_rds/doc/uncecomp_2023"
 ---
