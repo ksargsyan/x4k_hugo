@@ -13,5 +13,5 @@ all_day:  false
 featured:  false
 math:  true
 url_pdf: "files/talks/2022_08_mlip.pdf"
-loc" "$WW/projects/FusMatML/repos/fumat/doc/talk/usacm_mlip_Aug2022"
+loc: "$WW/projects/FusMatML/repos/fumat/doc/talk/usacm_mlip_Aug2022"
 ---
