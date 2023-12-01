@@ -12,6 +12,6 @@ tags:  []
 all_day:  false
 featured:  false
 math:  true
-url_pdf: ""
+url_pdf: "files/talks/2021_05_bespi.pdf"
 loc: "$WW/projects/ECC/doc/talk/BES_CRF_May21"
 ---
