@@ -13,5 +13,5 @@ all_day:  false
 featured:  false
 math:  true
 url_pdf: "files/talks/2021_12_ldrdreview.pdf"
-loc : "${WW}/projects/NNRDS/repos/nn_rds/doc/review_Dec2021"
+loc: "${WW}/projects/NNRDS/repos/nn_rds/doc/review_Dec2021"
 ---

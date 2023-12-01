@@ -62,13 +62,13 @@
 #/Users/sargsyan/Dropbox/Work/projects/E3SM/Land_model_UQ/talks/E3SM_AllHands_20210527
 #/Users/sargsyan/Dropbox/Work/projects/E3SM/Land_model_UQ/talks/ESMD_20201028
 
-#/Users/ksargsy/research/cluq/doc/talk/siamcse21
-#/Users/ksargsy/research/cluq/doc/talk/agu20/lstm
-#/Users/ksargsy/research/cluq/doc/talk/agu19/calib
-#/Users/ksargsy/research/cluq/doc/talk/e3sm_nov2019
-#/Users/ksargsy/research/cluq/doc/talk/iciam19
-#/Users/ksargsy/research/cluq/doc/talk/jsm20
-#/Users/ksargsy/research/cluq/doc/talk/siam_mds2020
+#/Users/sargsyan/Dropbox/Work/projects/OSCM/repos/cluq/doc/talk/siamcse21
+#/Users/sargsyan/Dropbox/Work/projects/OSCM/repos/cluq/doc/talk/agu20/lstm
+#/Users/sargsyan/Dropbox/Work/projects/OSCM/repos/cluq/doc/talk/agu19/calib
+#/Users/sargsyan/Dropbox/Work/projects/OSCM/repos/cluq/doc/talk/e3sm_nov2019
+#/Users/sargsyan/Dropbox/Work/projects/OSCM/repos/cluq/doc/talk/iciam19
+#/Users/sargsyan/Dropbox/Work/projects/OSCM/repos/cluq/doc/talk/jsm20
+#/Users/sargsyan/Dropbox/Work/projects/OSCM/repos/cluq/doc/talk/siam_mds2020
 
 #/Users/ksargsy/research/OSCM_SciDAC/presentations/agu18
 #/Users/ksargsy/research/OSCM_SciDAC/presentations/modeling18/talk
@@ -129,10 +129,10 @@
 
 ### GENERAL
 
-#/Users/ksargsy/research/quest_dist/doc/talk/byu20
+#$WW/projects/QUEST/quest_dist/doc/talk/byu20
 #/Users/ksargsy/research/merr_dist/doc/sapienza_ss20
-#/Users/ksargsy/research/quest_dist/doc/talk/umich18
-#/Users/ksargsy/research/quest_dist/doc/talk/slb16
+#$WW/projects/QUEST/quest_dist/doc/talk/umich18
+#$WW/projects/QUEST/quest_dist/doc/talk/slb16
 
 #/Users/ksargsy/research/talk_dist/berkeley_12
 #/Users/ksargsy/research/talk_dist/rhs_crf_13
