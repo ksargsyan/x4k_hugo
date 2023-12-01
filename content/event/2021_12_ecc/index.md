@@ -13,5 +13,5 @@ all_day:  false
 featured:  false
 math:  true
 url_pdf: "files/talks/2021_12_ecc.pdf"
-loc: "${WW}/projects/ECC/repos/kmc/doc/talk/annual_2021/model_anl
+loc: "${WW}/projects/ECC/repos/kmc/doc/talk/annual_2021/model_anl"
 ---
