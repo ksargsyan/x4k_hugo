@@ -12,6 +12,6 @@ tags:  []
 all_day:  false
 featured:  false
 math:  true
-url_pdf: ""
+url_pdf: "webposter"
 loc: "$WW/projects/OSCM/repos/cluq/doc/talk/agu20/lstm"
 ---
