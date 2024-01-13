@@ -12,5 +12,6 @@ tags:  []
 all_day:  false
 featured:  false
 math:  true
-url_pdf: "files/berkeley_12.pdf"
+url_pdf: "files/talks/2012_02_berkeley.pdf"
+loc: "$WW/repos/talk_dist/berkeley_12"
 ---

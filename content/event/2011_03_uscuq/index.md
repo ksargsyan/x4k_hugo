@@ -12,5 +12,6 @@ tags:  []
 all_day:  false
 featured:  false
 math:  true
-url_pdf: "files/2011_uscuq.pdf"
+url_pdf: "files/talks/2011_03_uscuq.pdf"
+loc: "$WW/projects/SDS/sds_dist/doc/talk_USC_UQ_11"
 ---

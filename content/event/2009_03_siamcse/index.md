@@ -13,4 +13,5 @@ all_day:  false
 featured:  false
 math:  true
 url_pdf: ""
+loc: "$WW/projects/SDS/sds_dist/doc/talk_SIAM_CSE_09"
 ---

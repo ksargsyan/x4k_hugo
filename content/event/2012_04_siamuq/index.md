@@ -12,5 +12,6 @@ tags:  []
 all_day:  false
 featured:  false
 math:  true
-url_pdf: ""
+url_pdf: "files/talks/2012_04_siamuq.pdf"
+loc: "$WW/repos/talk_dist/siam.uq12/bcs"
 ---

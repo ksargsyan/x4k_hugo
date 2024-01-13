@@ -120,12 +120,12 @@ $WW/projects/E3SM/Land_model_UQ/talks/AGU_2023
 
 ### SDS
 
-#$WW/repos/sds_dist/doc/talk_SIAM_CSE_11
-#$WW/repos/sds_dist/doc/talk_USC_UQ_11
-#$WW/repos/sds_dist/doc/talk_SIAM_CSE_09
-#$WW/repos/sds_dist/doc/talk_SIAM_08
-##$WW/repos/sds_dist/doc/talk_int8351
-##$WW/repos/sds_dist/doc/talk_int8953
+#$WW/projects/SDS/sds_dist/doc/talk_SIAM_CSE_11
+#$WW/projects/SDS/sds_dist/doc/talk_USC_UQ_11
+#$WW/projects/SDS/sds_dist/doc/talk_SIAM_CSE_09
+#$WW/projects/SDS/sds_dist/doc/talk_SIAM_08
+##$WW/projects/SDS/sds_dist/doc/talk_int8351
+##$WW/projects/SDS/sds_dist/doc/talk_int8953
 
 
 ### GENERAL

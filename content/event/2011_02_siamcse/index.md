@@ -12,5 +12,6 @@ tags:  []
 all_day:  false
 featured:  false
 math:  true
-url_pdf: ""
+url_pdf: "files/talks/2011_02_siamcse.pdf"
+loc: "$WW/projects/SDS/sds_dist/doc/talk_SIAM_CSE_11"
 ---

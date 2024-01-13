@@ -13,4 +13,5 @@ all_day:  false
 featured:  false
 math:  true
 url_pdf: ""
+loc: "$WW/projects/E3SM/repos/cmuq_dist/talk/siam10_disc"
 ---

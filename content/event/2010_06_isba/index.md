@@ -12,5 +12,6 @@ tags:  []
 all_day:  false
 featured:  false
 math:  true
-url_pdf: ""
+url_pdf: "files/talks/2010_06_isba.pdf"
+loc: "$WW/projects/E3SM/repos/cmuq_dist/doc/isba10"
 ---

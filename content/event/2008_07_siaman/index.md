@@ -12,5 +12,6 @@ tags:  []
 all_day:  false
 featured:  false
 math:  true
-url_pdf: "files/Sargsyan_SIAM-AN08_talk.pdf"
+url_pdf: "files/talks/2008_07_siaman.pdf"
+loc: "$WW/projects/SDS/sds_dist/doc/talk_SIAM_08"
 ---
