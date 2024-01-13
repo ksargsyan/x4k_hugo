@@ -1,7 +1,7 @@
 ---
 title: Hit Twice by the Curse of Dimensionality; Spatio-Temporal Land Model Calibration using Karhunen-Loeve and Sparse Polynomial Chaos Expansions
 authors: ["Khachik Sargsyan, Daniel Ricciuto, Cosmin Safta"]
-event: AGU Fall Meeting
+event: AGU Fall Meeting 2021
 event_url: https://www.agu.org/fall-meeting-2021
 location: (virtual) New Orleans, LA
 summary: Poster

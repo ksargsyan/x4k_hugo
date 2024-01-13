@@ -12,5 +12,6 @@ tags:  []
 all_day:  false
 featured:  false
 math:  true
-url_pdf: "files/agu14_tcom.pdf"
+url_pdf: "files/talks/2014_12_agu.pdf"
+loc: "$WW/repos/talk_dist/agu14/tcom"
 ---

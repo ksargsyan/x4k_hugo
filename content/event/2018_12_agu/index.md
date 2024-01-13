@@ -1,7 +1,7 @@
 ---
 title: Bayesian Framework for Structural Uncertainty Estimation of Land Models
 authors: ["Khachik Sargsyan, Daniel Ricciuto, Cosmin Safta"]
-event: AGU Fall Meeting 	
+event: AGU Fall Meeting 2018	
 event_url: https://agu.confex.com/agu/fm18/meetingapp.cgi/Home/0
 location: Washington, DC
 summary: Poster

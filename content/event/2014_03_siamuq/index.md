@@ -13,4 +13,5 @@ all_day:  false
 featured:  false
 math:  true
 url_pdf: ""
+loc: "$WW/repos/talk_dist/siam.uq14/bcs"
 ---

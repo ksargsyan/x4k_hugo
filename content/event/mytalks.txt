@@ -42,7 +42,7 @@
 
 #$WW/repos/uqtk/UQTk/doc/siam.an18
 
-#/Users/ksargsy/research/talk_dist/usnccm15/talk_merr
+#$WW/repos/talk_dist/usnccm15/talk_merr
 
 
 ### CHEM ML
@@ -104,28 +104,28 @@ $WW/projects/E3SM/Land_model_UQ/talks/AGU_2023
 ##$WW/docs/Presentations/mine/Sargsyan_LandUQ_poster_Nov2016.pdf
 ##$WW/docs/Presentations/mine/ACME_Sargsyan_Poster_June17.pdf
 
-#/Users/ksargsy/research/talk_dist/agu14/clm
-#/Users/ksargsy/research/talk_dist/agu14/tcom
+#$WW/repos/talk_dist/agu14/clm
+#$WW/repos/talk_dist/agu14/tcom
 
 
 ### BCS
 
-#/Users/ksargsy/research/talk_dist/siam.uq14/bcs
-#/Users/ksargsy/research/talk_dist/siam.an13/bcs
-#/Users/ksargsy/research/talk_dist/usnccm13/bcs
-#/Users/ksargsy/research/talk_dist/siam.cse13/bcs
-#/Users/ksargsy/research/talk_dist/siam.uq12/bcs
-#/Users/ksargsy/research/talk_dist/icosahom14
+#$WW/repos/talk_dist/siam.uq14/bcs
+#$WW/repos/talk_dist/siam.an13/bcs
+#$WW/repos/talk_dist/usnccm13/bcs
+#$WW/repos/talk_dist/siam.cse13/bcs
+#$WW/repos/talk_dist/siam.uq12/bcs
+#$WW/repos/talk_dist/icosahom14
 
 
 ### SDS
 
-#/Users/ksargsy/research/sds_dist/doc/talk_SIAM_CSE_11
-#/Users/ksargsy/research/sds_dist/doc/talk_USC_UQ_11
-#/Users/ksargsy/research/sds_dist/doc/talk_SIAM_CSE_09
-#/Users/ksargsy/research/sds_dist/doc/talk_SIAM_08
-##/Users/ksargsy/research/sds_dist/doc/talk_int8351
-##/Users/ksargsy/research/sds_dist/doc/talk_int8953
+#$WW/repos/sds_dist/doc/talk_SIAM_CSE_11
+#$WW/repos/sds_dist/doc/talk_USC_UQ_11
+#$WW/repos/sds_dist/doc/talk_SIAM_CSE_09
+#$WW/repos/sds_dist/doc/talk_SIAM_08
+##$WW/repos/sds_dist/doc/talk_int8351
+##$WW/repos/sds_dist/doc/talk_int8953
 
 
 ### GENERAL
@@ -135,9 +135,9 @@ $WW/projects/E3SM/Land_model_UQ/talks/AGU_2023
 #$WW/projects/QUEST/quest_dist/doc/talk/umich18
 #$WW/projects/QUEST/quest_dist/doc/talk/slb16
 
-#/Users/ksargsy/research/talk_dist/berkeley_12
-#/Users/ksargsy/research/talk_dist/rhs_crf_13
-#/Users/ksargsy/research/talk_dist/basc13
+#$WW/repos/talk_dist/berkeley_12
+#$WW/repos/talk_dist/rhs_crf_13
+#$WW/repos/talk_dist/basc13
 
 ##$WW/mytalks/TES_DS
 ##$WW/mytalks/CIS_ERB
@@ -149,5 +149,5 @@ $WW/projects/E3SM/Land_model_UQ/talks/AGU_2023
 #$WW/projects/PSI2NE/repos/psi/doc/talk/fmath_june19
 ##$WW/projects/PSI2NE/repos/psi/doc/talk/update_may18
 
-#/Users/ksargsy/research/mp_dist/doc/quest_Apr2015
+#$WW/projects/FEMPI/mp_dist/doc/quest_Apr2015
 

@@ -1,7 +1,7 @@
 ---
 title: Sparse Polynomial Chaos Surrogate for ACME Land Model via Iterative Bayesian Compressive Sensing
 authors: ["Khachik Sargsyan, Daniel Ricciuto, Peter Thornton"]
-event: AGU Fall Meeting
+event: AGU Fall Meeting 2015
 event_url: https://agu.confex.com/agu/fm15/meetingapp.cgi/
 location: San Francisco, CA
 summary: Talk

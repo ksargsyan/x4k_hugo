@@ -1,7 +1,7 @@
 ---
 title: Calibration and propagation of model structural error for E3SM land model
 authors: ["Khachik Sargsyan, Cosmin Safta, Vishagan Ratnaswamy, Daniel Ricciuto"]
-event: AGU Fall Meeting 
+event: AGU Fall Meeting 2019
 event_url: https://www.agu.org/fall-meeting-2019
 location: San Francisco, CA
 summary: Poster

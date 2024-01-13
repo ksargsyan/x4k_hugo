@@ -1,7 +1,7 @@
 ---
 title: Dimensionality Reduction and Physics-Informed Recurrent Neural Networks for Climate Land Models
 authors: ["Khachik Sargsyan, Cosmin Safta, Daniel Ricciuto"]
-event: AGU Fall Meeting
+event: AGU Fall Meeting 2020
 event_url: https://www.agu.org/fall-meeting-2020
 location: virtual
 summary: Poster

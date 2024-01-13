@@ -12,5 +12,6 @@ tags:  []
 all_day:  false
 featured:  false
 math:  true
-url_pdf: "files/basc13.pdf"
+url_pdf: "files/talks/2013_12_basc.pdf"
+loc: "$WW/repos/talk_dist/basc13"
 ---

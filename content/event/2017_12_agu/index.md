@@ -1,7 +1,7 @@
 ---
 title: Embedded Model Error Representation and Propagation in Climate Models
 authors: ["Khachik Sargsyan, Daniel Ricciuto, Cosmin Safta, Peter Thornton"]
-event: AGU Fall Meeting
+event: AGU Fall Meeting 2017
 event_url: https://agu.confex.com/agu/fm17/meetingapp.cgi/Home/0
 location: New Orleans, LA
 summary: Talk

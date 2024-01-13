@@ -1,7 +1,7 @@
 ---
 title: Weighted Iterative Bayesian Compressive Sensing (WIBCS) for High Dimensional Polynomial Surrogate Construction
 authors: ["Khachik Sargsyan, Daniel Ricciuto, Cosmin Safta, Bert Debusschere, Habib Najm, Peter Thornton"]
-event: AGU Fall Meeting
+event: AGU Fall Meeting 2016
 event_url: https://agu.confex.com/agu/fm16/meetingapp.cgi/
 location: San Francisco, CA
 summary: Poster

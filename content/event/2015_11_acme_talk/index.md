@@ -1,9 +1,9 @@
 ---
 title: Parametric Uncertainty Analysis for ACME Land Model
 authors: ["Khachik Sargsyan, Daniel Ricciuto, Peter Thornton"]
-event: 
-event_url: 
-location: 
+event: ACME Fall PI Meeting
+event_url: https://climatemodeling.science.energy.gov/meetings/2015-acme-fall-pi-meeting
+location: Albuquerque, NM
 summary: Talk
 abstract: ""
 date: "2015-11-05"
