@@ -12,6 +12,7 @@ tags:  []
 all_day:  false
 featured:  false
 math:  true
-url_pdf: "cancelled"
+url_pdf: ""
+note: "cancelled"
 loc: "$WW/projects/OSCM/repos/cluq/doc/talk/siam_mds2020"
 ---

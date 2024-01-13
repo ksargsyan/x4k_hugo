@@ -12,5 +12,6 @@ tags:  []
 all_day:  false
 featured:  false
 math:  true
-url_pdf: "files/iciam19.pdf"
+url_pdf: "files/talks/2019_07_iciam.pdf"
+loc: "$WW/projects/OSCM/repos/cluq/doc/talk/iciam19"
 ---

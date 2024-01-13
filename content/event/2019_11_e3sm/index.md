@@ -13,4 +13,5 @@ all_day:  false
 featured:  false
 math:  true
 url_pdf: ""
+loc: "$WW/projects/OSCM/repos/cluq/doc/talk/e3sm_nov2019"
 ---

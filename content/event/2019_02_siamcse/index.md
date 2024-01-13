@@ -12,5 +12,6 @@ tags:  []
 all_day:  false
 featured:  false
 math:  true
-url_pdf: "files/siam_cse19.pdf"
+url_pdf: "files/talks/2019_02_siamcse.pdf"
+loc: "$WW/repos/merr_dist/doc/siam_cse19"
 ---

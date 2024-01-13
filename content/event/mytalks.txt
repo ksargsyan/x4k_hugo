@@ -51,7 +51,7 @@
 #$WW/projects/ECC/repos/kmc/doc/talk/annual_2021/model_anl
 ##$WW/projects/ECC/common/presentations/kickoff/Sargsyan_ml.pdf
 ##$WW/projects/ECC/common/presentations/2018_October_meeting/Sargsyan_ML.pdf
-##$WW/docs/Presentations/mine/MLtalk_Oct2019_sargsyan.pdf
+##$WW/mytalks/MLtalk_Oct19/MLtalk_Oct2019_sargsyan.pdf
 
 ### CLIMATE
 
@@ -71,9 +71,9 @@ $WW/projects/E3SM/Land_model_UQ/talks/AGU_2023
 #$WW/projects/OSCM/repos/cluq/doc/talk/jsm20
 #$WW/projects/OSCM/repos/cluq/doc/talk/siam_mds2020
 
-#/Users/ksargsy/research/OSCM_SciDAC/presentations/agu18
-#/Users/ksargsy/research/OSCM_SciDAC/presentations/modeling18/talk
-##/Users/ksargsy/research/OSCM_SciDAC/presentations/modeling18/poster
+#$WW/projects/OSCM/repos/OSCM_SciDAC/presentations/agu18
+#$WW/projects/OSCM/repos/OSCM_SciDAC/presentations/modeling18/talk
+##$WW/projects/OSCM/repos/OSCM_SciDAC/presentations/modeling18/poster
 
 #/Users/ksargsy/research/cmuq_dist/doc/agu10/uqdisc
 #/Users/ksargsy/research/cmuq_dist/doc/isba10
@@ -146,8 +146,8 @@ $WW/projects/E3SM/Land_model_UQ/talks/AGU_2023
 ##$WW/mytalks/dschem_May19
 ##$WW/mytalks/dschem_Oct18
 
-#/Users/ksargsy/research/psi2/doc/talk/fmath_june19
-##/Users/ksargsy/research/psi2/doc/talk/update_may18
+#$WW/projects/PSI2NE/repos/psi/doc/talk/fmath_june19
+##$WW/projects/PSI2NE/repos/psi/doc/talk/update_may18
 
 #/Users/ksargsy/research/mp_dist/doc/quest_Apr2015
 
