@@ -55,7 +55,7 @@
 
 ### CLIMATE
 
-$WW/projects/E3SM/Land_model_UQ/talks/AGU_2023
+#$WW/projects/E3SM/Land_model_UQ/talks/AGU_2023
 
 #$WW/mytalks/scidac_Sep2023
 
