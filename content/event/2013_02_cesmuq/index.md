@@ -12,5 +12,6 @@ tags:  []
 all_day:  false
 featured:  false
 math:  true
-url_pdf: "files/cesm-uqa13_bcs.pdf"
+url_pdf: "files/talks/2013_02_cesmuq.pdf"
+loc: "$WW/projects/E3SM/repos/cm_dist/doc/cesm-uqa13/bcs"
 ---
