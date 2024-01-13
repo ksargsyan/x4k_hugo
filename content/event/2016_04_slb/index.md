@@ -12,5 +12,6 @@ tags:  []
 all_day:  false
 featured:  false
 math:  true
-url_pdf: "files/2016_slb.pdf"
+url_pdf: "files/talks/2016_04_slb.pdf"
+loc: "$WW/projects/QUEST/quest_dist/doc/talk/slb16"
 ---

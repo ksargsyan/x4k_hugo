@@ -22,5 +22,6 @@ tags:  []
 all_day:  false
 featured:  false
 math:  true
-url_pdf: "files/isba16.pdf"
+url_pdf: "files/talks/isba16.pdf"
+loc: "$WW/repos/merr_dist/doc/isba16"
 ---
