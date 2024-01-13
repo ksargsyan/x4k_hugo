@@ -12,5 +12,6 @@ tags:  []
 all_day:  false
 featured:  false
 math:  true
-url_pdf: ""
+url_pdf: "files/talks/2018_08_jsm.pdf"
+loc: "$WW/repos/merr_dist/doc/jsm18"
 ---

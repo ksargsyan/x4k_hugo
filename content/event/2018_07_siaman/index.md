@@ -12,5 +12,6 @@ tags:  []
 all_day:  false
 featured:  false
 math:  true
-url_pdf: ""
+url_pdf: "files/talks/2018_07_siaman.pdf"
+loc: "$WW/repos/uqtk/UQTk/doc/siam.an18"
 ---

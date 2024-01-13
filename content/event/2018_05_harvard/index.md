@@ -32,5 +32,6 @@ tags:  []
 all_day:  false
 featured:  false
 math:  true
-url_pdf: "files/hvd_wkshp18.pdf"
+url_pdf: "files/talks/hvd_wkshp18.pdf"
+loc: "$WW/repos/merr_dist/doc/hvd_wkshp18"
 ---
