@@ -14,5 +14,4 @@ featured:  false
 math:  true
 url_pdf: ""
 loc: "$WW/projects/OSCM/repos/cluq/doc/talk/agu19/calib"
-"
 ---
