@@ -12,5 +12,6 @@ tags:  []
 all_day:  false
 featured:  false
 math:  true
-url_pdf: "files/agu15.pdf"
+url_pdf: "files/talks/2015_12_agu.pdf"
+loc: "$WW/projects/E3SM/repos/cm_dist/doc/agu15"
 ---
