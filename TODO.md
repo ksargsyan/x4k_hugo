@@ -1,17 +1,20 @@
 TODO:
 
-Compile and add all pdf files (lots missing)
-Git add/commit/push
-reorg mytalks.txt
-Also update sargsyan_talks.docx (old talks missing)
-update CV (start from SNL one and de-SNLize)
-Move x4k_hugo from Pers/ to Work/
-Clean old Hugo's
+- Move x4k_hugo from Pers/ to Work/
+- Clean old Hugo folders
+- update CV (start from SNL one and de-SNLize)
 
 
 ===============================================================
 ======= TALKS =================================================
 ===============================================================
+
+
+- make html creation for talks, too
+-       see  event/example/ and and try to do similarly, e.g. pdf files do not show? also move each in its own folder?
+- Also update sargsyan_talks.docx (old talks missing)
+- Compile and add all pdf files (lots missing -- see below)
+- reorg/clean mytalks.txt ?
 
 =========
 need file:
@@ -105,20 +108,15 @@ $WW/projects/OSCM/repos/cluq/doc/talk/siam_mds2020 (did it happen?)
 ======= PUBLICATIONS ==========================================
 ===============================================================
 
+- clean all pubs hugo folders (or their base bibs)
+- see publication/example/ and try to do similarly, e.g. pdf files do not show? also move each in its own folder?
 
-- create .tex instead of html with all publications for CV
-- create .tex or html with all talks for CV
-- can I go from Sargsyan_all.bib to Sargsyan_first.bib with bibtool?
--        see publication/example/ and try to do similarly, e.g. pdf files do not show? also move each in its own folder?
--       same with event/example/
 
-{
-  ALMUQ paper, JHolm paper, Cristian paper, Logan paper, Oscar paper, Emory paper see pmf publication doc
-}
+
 
 ===============================================================
 ==== PROJECTS =================================================
 ===============================================================
 
 
-add projects.
+- add projects.

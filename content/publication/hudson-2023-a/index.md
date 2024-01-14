@@ -1,7 +1,7 @@
 ---
 title: "Measuring Stiffness in Residual Neural Networks"
 date: accepted, 2023-12-01
-publishDate: 2024-01-14T04:30:54.071789Z
+publishDate: 2024-01-14T04:46:17.678739Z
 authors: ["Joshua Hudson", "Marta D'Elia", "Habib N. Najm", "Khachik Sargsyan"]
 publication_types: ["1"]
 abstract: ""
