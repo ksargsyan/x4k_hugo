@@ -1,12 +1,14 @@
 ---
-title: "Fluctuations in chemical reactions in a large volume"
-date: 2005-07-01
-publishDate: 2024-01-14T04:18:52.099887Z
-authors: ["K. Sargsyan"]
-publication_types: ["2"]
-abstract: ""
+title: Fluctuations in chemical reactions in a large volume
+date: '2005-07-01'
+publishDate: '2022-08-07T21:11:24.227507Z'
+authors:
+- K. Sargsyan
+publication_types:
+- '2'
+abstract: ''
 featured: false
-publication: "*GFD Program Proceedings*"
-url_pdf: "https://gfd.whoi.edu/wp-content/uploads/sites/18/2018/03/Sargsyan_21280.pdf"
+publication: '*GFD Program Proceedings*'
+url_pdf: https://gfd.whoi.edu/wp-content/uploads/sites/18/2018/03/Sargsyan_21280.pdf
 ---
 
