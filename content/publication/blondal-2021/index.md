@@ -1,7 +1,7 @@
 ---
 title: "Adsorbate Partition Functions via Phase Space Integration: Quantifying the Effect of Translational Anharmonicity on Thermodynamic Properties"
 date: 2021-01-01
-publishDate: 2024-01-14T04:18:52.083755Z
+publishDate: 2024-01-14T04:30:54.074915Z
 authors: ["Katrín Blöndal", "Khachik Sargsyan", "David Bross", "Branko Ruscic", "C. Franklin Goldsmith"]
 publication_types: ["2"]
 abstract: "."
