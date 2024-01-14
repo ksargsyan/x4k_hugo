@@ -1,7 +1,7 @@
 ---
 title: "Polynomial Chaos Surrogate Construction for Stochastic Models with Parametric Uncertainty"
 date: 2023-07-01
-publishDate: 2024-01-14T04:46:17.679432Z
+publishDate: 2024-01-14T17:37:25.143928Z
 authors: ["Joy N. Mueller", "Khachik Sargsyan", "Habib N. Najm"]
 publication_types: ["6"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "Sella, an Open-Source Automation-Friendly Molecular Saddle Point Optimizer"
 date: 2022-01-01
-publishDate: 2024-01-14T04:46:17.680146Z
+publishDate: 2024-01-14T17:37:25.144920Z
 authors: ["Eric D. Hermes", "Khachik Sargsyan", "Habib N. Najm", "Judit Zádor"]
 publication_types: ["2"]
 abstract: ""
