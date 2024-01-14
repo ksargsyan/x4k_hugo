@@ -1,7 +1,7 @@
 ---
 title: "Towards a Universal Toolkit for Quantifying Simulation Error via both Bayesian Inference and Model Reduction Strategies"
 date: 2014-09-01
-publishDate: 2024-01-14T20:20:43.282226Z
+publishDate: 2024-01-14T20:55:01.235251Z
 authors: ["Jeremiah Wilke", "Joseph Kenny", "Martin Drohmann", "Khachik Sargsyan"]
 publication_types: ["1"]
 abstract: ""
