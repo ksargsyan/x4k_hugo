@@ -1,7 +1,7 @@
 ---
 title: "The Role of Stiffness in Training and Generalization of ResNets"
 date: 2023-01-01
-publishDate: 2024-01-14T17:37:25.141974Z
+publishDate: 2024-01-14T17:52:59.897777Z
 authors: ["Joshua Hudson", "Marta D'Elia", "Habib N. Najm", "Khachik Sargsyan"]
 publication_types: ["2"]
 abstract: ""
