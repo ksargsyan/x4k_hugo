@@ -109,10 +109,12 @@ $WW/projects/OSCM/repos/cluq/doc/talk/siam_mds2020 (did it happen?)
 - create .tex instead of html with all publications for CV
 - create .tex or html with all talks for CV
 - can I go from Sargsyan_all.bib to Sargsyan_first.bib with bibtool?
-- Publish!
-- make a rolling/publications.docs, too? Or mypublications.txt like in mytalks.txt with links to folders?
 -        see publication/example/ and try to do similarly, e.g. pdf files do not show? also move each in its own folder?
 -       same with event/example/
+
+{
+  ALMUQ paper, JHolm paper, Cristian paper, Logan paper, Oscar paper, Emory paper see pmf publication doc
+}
 
 ===============================================================
 ==== PROJECTS =================================================
