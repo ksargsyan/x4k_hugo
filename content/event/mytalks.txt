@@ -11,7 +11,7 @@
 #$WW/projects/FMUQ/fmuq/fm5/doc/talk/fmuq_mtg_uqnn_2023
 
 
-### MATERIAL SCI
+### MLUQ PES
 
 
 #$WW/projects/FusMatML/repos/fumat/doc/talk/mmldt2021
@@ -24,6 +24,9 @@
 #$WW/projects/FusMatML/repos/fumat/doc/talk/usacm_mlip_Aug2022
 #$WW/projects/FusMatML/repos/fumat/doc/talk/allhands_Sep2022
 #$WW/projects/FusMatML/repos/fumat/doc/talk/siam_cse23
+
+##$WW/mytalks/dschem_May19
+##$WW/mytalks/dschem_Oct18
 
 ### MODEL ERROR
 
@@ -44,8 +47,13 @@
 
 #$WW/repos/talk_dist/usnccm15/talk_merr
 
+##$WW/repos/merr_dist/doc/data_sci_SNL/talk
+##$WW/repos/merr_dist/doc/llnl_scidac17
 
-### CHEM ML
+##$WW/mytalks/CIS_ERB
+##$WW/mytalks/TES_DS
+
+### ECC
 
 #$WW/projects/ECC/doc/talk/BES_CRF_May21
 #$WW/projects/ECC/repos/kmc/doc/talk/annual_2021/model_anl
@@ -136,12 +144,9 @@
 #$WW/repos/talk_dist/rhs_crf_13
 #$WW/repos/talk_dist/basc13
 
-##$WW/mytalks/TES_DS
-##$WW/mytalks/CIS_ERB
 ##$WW/mytalks/umich18
 ##$WW/mytalks/probnum_talk
-##$WW/mytalks/dschem_May19
-##$WW/mytalks/dschem_Oct18
+
 
 #$WW/projects/PSI2NE/repos/psi/doc/talk/fmath_june19
 ##$WW/projects/PSI2NE/repos/psi/doc/talk/update_may18

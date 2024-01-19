@@ -4,6 +4,7 @@ TODO:
 - Clean old Hugo folders
 - update CV (start from SNL one and de-SNLize; add all talks)
 - sync with CRF page
+- add projects or at least links?
 
 ===============================================================
 ======= TALKS =================================================
@@ -17,6 +18,7 @@ TODO:
 - Compile and add all pdf files (lots missing -- see below)
 - reorg/clean mytalks.txt ?
 
+- check https://e3sm.org/about/events/e3sm-conferences/ 
 - check publishDates
 
 =========
@@ -29,8 +31,10 @@ need file:
 
 =========
 need compiling:
+2018_05_psi (but I have the pdf - may need updating, figures misaligned)
 2018_07_wccm 
 2018_04_siamuq
+2017_01_scidac
 2016_07_siaman
 2015_03_siamcse
 2014_12_agu_poster
@@ -53,37 +57,11 @@ need compiling:
 missing and can't get the repo
 $WW/projects/SCRAM/repos/scram/doc/talk/kickoff_SNL_Feb2016/moderr
 
+missing but in docx somehow
+[Invited Talk] "Uncertainty Quantification in FATES Modeling”, E3SM All-Hands Meeting, Denver, CO, March, 2019.
+
 =========
 talks cleanup, missing etc (add both to docs and to hugo):
 
 
 
-##$WW/mytalks/CIS_ERB
-##$WW/mytalks/probnum_talk
-##$WW/mytalks/dschem_May19
-##$WW/mytalks/dschem_Oct18
-
-##/Users/ksargsy/research/sds_dist/doc/talk_int8351
-##/Users/ksargsy/research/sds_dist/doc/talk_int8953
-
-##/Users/ksargsy/research/psi2/doc/talk/update_may18 (file is there)
-
-
-•	“Quantifying the Impacts of Parametric Uncertainty on Biogeochemistry in the ACME Land Model”. ACME All-Hands Meeting, Washington DC, June, 2016.
-
-•	“Quantifying the impacts of parametric uncertainty at FLUXNET sites in the ACME Land Model”, American Geophysical Union Fall Meeting, San-Francisco, December, 2016.
-
-•	“Model Structural Error Quantification”, Data Science Workshops I and II, SNL, June-Sept, 2017.
-
-•	[Invited Talk] "Uncertainty Quantification in FATES Modeling”, E3SM All-Hands Meeting, Denver, CO, March, 2019.
-
-•	AGU10 Poster: “Advanced methods for uncertainty quantification in tail regions of climate model predictions”
-
-
-
-===============================================================
-==== PROJECTS =================================================
-===============================================================
-
-
-- add projects or at least links?
