@@ -1,5 +1,5 @@
 ---
-title: Uncertainty Quantification and Data Assimilation: Applications in Chemical Kinetics and Climate Modeling
+title: Uncertainty Quantification and Data Assimilation - Applications in Chemical Kinetics and Climate Modeling
 authors: ["Khachik Sargsyan"]
 event: Interview Talk (8351)
 event_url: 

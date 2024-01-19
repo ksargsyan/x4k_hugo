@@ -1,5 +1,5 @@
 ---
-title: UQ Update: Fitting Models to Langmuir Probe Data
+title: UQ Update - Fitting Models to Langmuir Probe Data
 authors: ["Khachik Sargsyan, Tiernan Casey, Habib Najm, Timothy Younkin"]
 event: PSI2 Meeting
 event_url: 

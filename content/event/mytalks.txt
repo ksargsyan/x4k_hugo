@@ -11,8 +11,7 @@
 #$WW/projects/FMUQ/fmuq/fm5/doc/talk/fmuq_mtg_uqnn_2023
 
 
-### MLUQ PES
-
+### PES
 
 #$WW/projects/FusMatML/repos/fumat/doc/talk/mmldt2021
 #$WW/projects/FusMatML/repos/fumat/doc/talk/MITUQ_March2022
@@ -39,19 +38,18 @@
 #$WW/repos/merr_dist/doc/siam_an16
 #$WW/repos/merr_dist/doc/isba16
 #$WW/repos/merr_dist/doc/wccm18
+##$WW/repos/merr_dist/doc/data_sci_SNL/talk
+##$WW/repos/merr_dist/doc/llnl_scidac17
 
 ##$WW/projects/SCRAM/repos/scram/doc/talk/kickoff_SNL_Feb2016/moderr
 #$WW/projects/SCRAM/repos/scram/doc/talk/siam_cse17/moderr
 
 #$WW/repos/uqtk/UQTk/doc/siam.an18
-
 #$WW/repos/talk_dist/usnccm15/talk_merr
-
-##$WW/repos/merr_dist/doc/data_sci_SNL/talk
-##$WW/repos/merr_dist/doc/llnl_scidac17
 
 ##$WW/mytalks/CIS_ERB
 ##$WW/mytalks/TES_DS
+
 
 ### ECC
 
@@ -62,18 +60,20 @@
 
 ### CLIMATE
 
-#$WW/projects/E3SM/Land_model_UQ/talks/AGU_2023
-
 #$WW/mytalks/scidac_Sep2023
 
-#$WW/projects/OSCM/repos/cluq/doc/talk/agu21/calib
+#$WW/projects/E3SM/Land_model_UQ/talks/AGU_2023
+#$WW/projects/E3SM/Land_model_UQ/talks/E3SM_poster2019
 #$WW/projects/E3SM/Land_model_UQ/talks/E3SM_AllHands_20210527
 #$WW/projects/E3SM/Land_model_UQ/talks/ESMD_20201028
+##$WW/projects/E3SM/Land_model_UQ/talks/ACME_Poster_Nov2016
+##$WW/projects/E3SM/Land_model_UQ/talks/ACME_Poster_Jun2017
+##$WW/projects/E3SM/Land_model_UQ/talks/ACME_Talk_Jun2016
 
+#$WW/projects/OSCM/repos/cluq/doc/talk/agu21/calib
 #$WW/projects/OSCM/repos/cluq/doc/talk/siamcse21
 #$WW/projects/OSCM/repos/cluq/doc/talk/agu20/lstm
 #$WW/projects/OSCM/repos/cluq/doc/talk/agu19/calib
-#$WW/projects/E3SM/trunk/E3SM_poster2019
 #$WW/projects/OSCM/repos/cluq/doc/talk/iciam19
 #$WW/projects/OSCM/repos/cluq/doc/talk/jsm20
 #$WW/projects/OSCM/repos/cluq/doc/talk/siam_mds2020
@@ -105,10 +105,6 @@
 #$WW/projects/E3SM/repos/cm_dist/doc/siam_uq_16
 #$WW/projects/E3SM/repos/cm_dist/doc/uncecomp15
 
-##$WW/projects/E3SM/Land_model_UQ/talks/ACME_Poster_Nov2016
-##$WW/projects/E3SM/Land_model_UQ/talks/ACME_Poster_Jun2017
-##$WW/projects/E3SM/Land_model_UQ/talks/ACME_Talk_Jun2016
-
 #$WW/repos/talk_dist/agu14/clm
 #$WW/repos/talk_dist/agu14/tcom
 
@@ -121,6 +117,8 @@
 #$WW/repos/talk_dist/siam.cse13/bcs
 #$WW/repos/talk_dist/siam.uq12/bcs
 #$WW/repos/talk_dist/icosahom14
+#$WW/repos/talk_dist/basc13
+#$WW/repos/talk_dist/rhs_crf_13
 
 
 ### SDS
@@ -133,23 +131,20 @@
 ##$WW/projects/SDS/sds_dist/doc/talk_int8953
 
 
-### GENERAL
-
-#$WW/projects/QUEST/quest_dist/doc/talk/byu20
-#$WW/repos/merr_dist/doc/sapienza_ss20
-#$WW/projects/QUEST/quest_dist/doc/talk/umich18
-#$WW/projects/QUEST/quest_dist/doc/talk/slb16
+### GENERAL UQ
 
 #$WW/repos/talk_dist/berkeley_12
-#$WW/repos/talk_dist/rhs_crf_13
-#$WW/repos/talk_dist/basc13
-
+#$WW/repos/merr_dist/doc/sapienza_ss20
+#$WW/projects/QUEST/quest_dist/doc/talk/byu20
 ##$WW/mytalks/umich18
-##$WW/mytalks/probnum_talk
+#$WW/projects/QUEST/quest_dist/doc/talk/slb16
 
+
+### OTHER 
 
 #$WW/projects/PSI2NE/repos/psi/doc/talk/fmath_june19
 ##$WW/projects/PSI2NE/repos/psi/doc/talk/update_may18
 
 #$WW/projects/FEMPI/mp_dist/doc/quest_Apr2015
 
+##$WW/mytalks/probnum_talk

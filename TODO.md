@@ -2,24 +2,22 @@ TODO:
 
 - Move x4k_hugo from Pers/ to Work/
 - Clean old Hugo folders
-- update CV (start from SNL one and de-SNLize; add all talks)
 - sync with CRF page
 - add projects or at least links?
+- make tex and update CV (start from SNL one and de-SNLize; add all talks)
+
+- add vids if avail
 
 ===============================================================
 ======= TALKS =================================================
 ===============================================================
 
-- Also update sargsyan_talks.docx (old talks missing)
-
-
-- see  event/example/ and and try to do similarly, e.g. pdf files do not show? also move each in its own folder?
-
 - Compile and add all pdf files (lots missing -- see below)
-- reorg/clean mytalks.txt ?
 
 - check https://e3sm.org/about/events/e3sm-conferences/ 
 - check publishDates
+
+- make html and update sargsyan_talks.docx (old talks missing)
 
 =========
 need file:
@@ -59,9 +57,6 @@ $WW/projects/SCRAM/repos/scram/doc/talk/kickoff_SNL_Feb2016/moderr
 
 missing but in docx somehow
 [Invited Talk] "Uncertainty Quantification in FATES Modeling”, E3SM All-Hands Meeting, Denver, CO, March, 2019.
-
-=========
-talks cleanup, missing etc (add both to docs and to hugo):
 
 
 

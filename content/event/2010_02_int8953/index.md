@@ -1,5 +1,5 @@
 ---
-title: Uncertainty Quantification and Data Assimilation: Applications in Stochastic Reaction Networks and Climate Modeling
+title: Uncertainty Quantification and Data Assimilation - Applications in Stochastic Reaction Networks and Climate Modeling
 authors: ["Khachik Sargsyan"]
 event: Interview Talk (8953)
 event_url: 
