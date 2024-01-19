@@ -14,5 +14,5 @@ all_day:  false
 featured:  false
 math:  true
 url_pdf: "files/talks/2023_09_scidac.pdf"
-loc : "$WW/mytalks/scidac_Sep2023"
+loc: "$WW/mytalks/scidac_Sep2023"
 ---

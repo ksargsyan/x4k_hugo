@@ -13,5 +13,5 @@ all_day:  false
 featured:  false
 math:  true
 url_pdf: "files/talks/2023_11_fastmath.pdf"
-loc : "$WW/projects/FMUQ/fmuq/fm5/doc/talk/fmath_allhands_2023"
+loc: "$WW/projects/FMUQ/fmuq/fm5/doc/talk/fmath_allhands_2023"
 ---

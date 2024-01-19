@@ -1,6 +1,6 @@
 ---
 title: FitSNAP Uncertainty Estimation and Propagation
-authors: ["Khachik Sargsyan, TBD, TBD"]
+authors: ["Khachik Sargsyan, Logan Williams, Habib Najm"]
 event: FusMatML All Hands Meeting
 event_url: 
 location: Livermore, CA
@@ -13,5 +13,5 @@ all_day:  false
 featured:  false
 math:  true
 url_pdf: "files/talks/2022_09_fusmatml.pdf"
-loc : "${WW}/projects/FusMatML/repos/fumat/doc/talk/allhands_Sep2022"
+loc: "${WW}/projects/FusMatML/repos/fumat/doc/talk/allhands_Sep2022"
 ---

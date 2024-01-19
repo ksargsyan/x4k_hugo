@@ -94,7 +94,7 @@ I have developed and applied methods for model reduction, UQ and data assimilati
 
 
 <ul>
-  <li><i>Apr 2010 – Present:</i> Member of Technical Staff
+  <li><i>Apr 2010 – Present:</i> Member of Technical Staff;
 Sandia National Laboratories, Livermore, CA
     <ul>
       <li>Developing state-of-the-art algorithms for uncertainty quantification and statistical learning for computational models of physical phenomena,</li>
@@ -103,7 +103,7 @@ Sandia National Laboratories, Livermore, CA
       <li>  Hiring and mentorship of postdoctoral appointees and summer students.</li>
     </ul>
   </li>
-  <li><i>Jul 2007 – Apr 2010:</i> Postdoctoral Appointee
+  <li><i>Jul 2007 – Apr 2010:</i> Postdoctoral Appointee;
 Sandia National Laboratories, Livermore, CA
     <ul>
       <li>Predictability analysis in stochastic dynamical systems.</li>

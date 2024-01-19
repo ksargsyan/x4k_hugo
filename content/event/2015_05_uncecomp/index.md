@@ -1,7 +1,6 @@
 ---
 title: High-Dimensional Sparse Surrogate Construction via Bayesian Compressive Sensing
-authors: ["Khachik Sargsyan, Cosmin Safta, Habib N. Najm, Bert Debusschere,
-Daniel Ricciuto, Peter Thornton"]
+authors: ["Khachik Sargsyan, Cosmin Safta, Habib N. Najm, Bert Debusschere, Daniel Ricciuto, Peter Thornton"]
 event: 1st International Conference on Uncertainty Quantification in Computational Sciences and Engineering
 event_url: http://2015.uncecomp.org/
 location: Crete Island, Greece
@@ -14,4 +13,5 @@ all_day:  false
 featured:  false
 math:  true
 url_pdf: ""
+loc: ""
 ---

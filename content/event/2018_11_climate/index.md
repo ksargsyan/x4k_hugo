@@ -1,7 +1,7 @@
 ---
 title: Overview of Uncertainty Quantification Methods for Complex Models
 authors: ["Khachik Sargsyan, Cosmin Safta, Daniel Ricciuto"]
-event: 2018 Modeling Principal Investigators' Meeting
+event: Climate Modeling Principal Investigators' Meeting
 event_url: https://globalchange.ucdavis.edu/events/2018-doe-modeling-pi-meeting
 location: Potomac, MD
 summary: Talk
@@ -12,6 +12,6 @@ tags:  []
 all_day:  false
 featured:  false
 math:  true
-url_pdf: ""
+url_pdf: "files/talks/2018_11_climate.pdf"
 loc: "$WW/projects/OSCM/repos/OSCM_SciDAC/presentations/modeling18/talk"
 ---

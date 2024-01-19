@@ -13,5 +13,5 @@ all_day:  false
 featured:  false
 math:  true
 url_pdf: "files/talks/2021_04_tesds.pdf"
-loc : "$WW/mytalks/TES_DS"
+loc: "$WW/mytalks/TES_DS"
 ---

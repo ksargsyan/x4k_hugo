@@ -49,7 +49,6 @@
 
 #$WW/projects/ECC/doc/talk/BES_CRF_May21
 #$WW/projects/ECC/repos/kmc/doc/talk/annual_2021/model_anl
-##$WW/projects/ECC/common/presentations/kickoff/Sargsyan_ml.pdf
 ##$WW/projects/ECC/common/presentations/2018_October_meeting/Sargsyan_ML.pdf
 ##$WW/mytalks/MLtalk_Oct19/MLtalk_Oct2019_sargsyan.pdf
 
@@ -66,7 +65,7 @@
 #$WW/projects/OSCM/repos/cluq/doc/talk/siamcse21
 #$WW/projects/OSCM/repos/cluq/doc/talk/agu20/lstm
 #$WW/projects/OSCM/repos/cluq/doc/talk/agu19/calib
-#$WW/projects/OSCM/repos/cluq/doc/talk/e3sm_nov2019
+#$WW/projects/E3SM/trunk/E3SM_poster2019
 #$WW/projects/OSCM/repos/cluq/doc/talk/iciam19
 #$WW/projects/OSCM/repos/cluq/doc/talk/jsm20
 #$WW/projects/OSCM/repos/cluq/doc/talk/siam_mds2020
@@ -81,16 +80,13 @@
 #$WW/projects/E3SM/repos/cmuq_dist/talk/siam10_disc
 #$WW/projects/E3SM/repos/cmuq_dist/talk/trilabUQ_June10
 
-##$WW/projects/E3SM/repos/cm_dist/doc/acme_jun15
 ##$WW/projects/E3SM/repos/cm_dist/doc/acme_may15
-#$WW/projects/E3SM/repos/cm_dist/doc/acme_nov15
-##$WW/projects/E3SM/repos/cm_dist/doc/land_june15
+#$WW/projects/E3SM/repos/cm_dist/doc/acme_nov15 (poster+talk)
 #$WW/projects/E3SM/repos/cm_dist/doc/agu11
 #$WW/projects/E3SM/repos/cm_dist/doc/agu12/clm
 #$WW/projects/E3SM/repos/cm_dist/doc/agu15
 #$WW/projects/E3SM/repos/cm_dist/doc/agu16
 #$WW/projects/E3SM/repos/cm_dist/doc/agu17
-##$WW/projects/E3SM/repos/cm_dist/doc/breck12
 #$WW/projects/E3SM/repos/cm_dist/doc/cesm-uqa13/bcs
 ##$WW/projects/E3SM/repos/cm_dist/doc/cli8300
 ##$WW/projects/E3SM/repos/cm_dist/doc/dept8351_may16
@@ -101,8 +97,9 @@
 #$WW/projects/E3SM/repos/cm_dist/doc/siam_uq_16
 #$WW/projects/E3SM/repos/cm_dist/doc/uncecomp15
 
-##$WW/docs/Presentations/mine/Sargsyan_LandUQ_poster_Nov2016.pdf
-##$WW/docs/Presentations/mine/ACME_Sargsyan_Poster_June17.pdf
+##$WW/projects/E3SM/Land_model_UQ/talks/ACME_Poster_Nov2016
+##$WW/projects/E3SM/Land_model_UQ/talks/ACME_Poster_Jun2017
+##$WW/projects/E3SM/Land_model_UQ/talks/ACME_Talk_Jun2016
 
 #$WW/repos/talk_dist/agu14/clm
 #$WW/repos/talk_dist/agu14/tcom
