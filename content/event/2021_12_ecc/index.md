@@ -3,7 +3,7 @@ title: RMG-to-KMC with ML, UQ, and Adaptivity
 authors: ["Khachik Sargsyan, Habib N. Najm, Joy Mueller, Craig Daniels, Kyungjoo Kim, Sevy Harris, Richard West"]
 event: ECC All Hands Meeting
 event_url: 
-location: 
+location: Sandia National Laboratories, Livermore, CA
 summary: Talk
 abstract: ""
 date: "2021-12-08"
