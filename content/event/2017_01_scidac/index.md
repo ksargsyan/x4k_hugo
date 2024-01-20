@@ -12,6 +12,6 @@ tags:  []
 all_day:  false
 featured:  false
 math:  true
-url_pdf: ""
+url_pdf: "files/talks/2017_01_scidac.pdf"
 loc: "$WW/repos/merr_dist/doc/llnl_scidac17"
 ---

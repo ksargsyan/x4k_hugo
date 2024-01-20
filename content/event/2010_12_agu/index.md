@@ -12,6 +12,6 @@ tags:  []
 all_day:  false
 featured:  false
 math:  true
-url_pdf: ""
+url_pdf: "files/talks/2010_12_agu.pdf"
 loc: "$WW/projects/E3SM/repos/cmuq_dist/doc/agu10/uqdisc"
 ---

@@ -12,6 +12,6 @@ tags:  []
 all_day:  false
 featured:  false
 math:  true
-url_pdf: ""
+url_pdf: "files/talks/2013_11_crf.pdf"
 loc: "$WW/repos/talk_dist/rhs_crf_13"
 ---

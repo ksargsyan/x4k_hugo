@@ -12,6 +12,6 @@ tags:  []
 all_day:  false
 featured:  false
 math:  true
-url_pdf: ""
+url_pdf: "files/talks/2016_07_siaman.pdf"
 loc: "$WW/repos/merr_dist/doc/siam_an16"
 ---

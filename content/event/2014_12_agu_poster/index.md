@@ -12,6 +12,6 @@ tags:  []
 all_day:  false
 featured:  false
 math:  true
-url_pdf: ""
+url_pdf: "files/talks/2014_12_agu_poster.pdf"
 loc: "$WW/repos/talk_dist/agu14/clm"
 ---

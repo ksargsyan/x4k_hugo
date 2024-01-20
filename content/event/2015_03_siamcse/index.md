@@ -12,6 +12,6 @@ tags:  []
 all_day:  false
 featured:  false
 math:  true
-url_pdf: ""
+url_pdf: "files/talks/2015_03_siamcse.pdf"
 loc: "$WW/projects/E3SM/repos/cm_dist/doc/siam_cse_15"
 ---

@@ -12,6 +12,6 @@ tags:  []
 all_day:  false
 featured:  false
 math:  true
-url_pdf: ""
+url_pdf: "files/talks/2010_07_siaman.pdf"
 loc: "$WW/projects/E3SM/repos/cmuq_dist/talk/siam10_disc"
 ---

@@ -12,6 +12,6 @@ tags:  []
 all_day:  false
 featured:  false
 math:  true
-url_pdf: ""
+url_pdf: "files/talks/2013_07_siaman.pdf"
 loc: "$WW/repos/talk_dist/siam.an13/bcs"
 ---
