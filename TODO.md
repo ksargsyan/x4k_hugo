@@ -9,10 +9,6 @@ TODO:
 ======= TALKS =================================================
 ===============================================================
 
-- Compile and add all pdf files (lots missing -- see below)
-
-- check publishDates
-
 - make html and update sargsyan_talks.docx (old talks missing)
 
 - missing and can't get the repo

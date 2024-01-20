@@ -6,7 +6,7 @@ event_url:
 location: Sandia National Laboratories, Livermore, CA
 summary: Talk
 abstract: "<br>"
-date: "2016-02-30"
+date: "2016-02-29"
 publishDate: "2063-09-13"
 tags:  []
 all_day:  false
