@@ -24,7 +24,7 @@ on realistic engineering applications including chemical kinetics,
 climate models and turbulence modeling."
 event: Harvard Workshop "Statistics when the model is wrong"
 event_url: https://projects.iq.harvard.edu/stat_mod
-location: Cambridge, MA
+location: Radcliffe Institute for Advanced Study, Cambridge, MA
 summary: Talk
 date: "2018-05-31"
 publishDate: "2018-05-31"

@@ -1,5 +1,5 @@
 ---
-title: "Bayesian Compressive Sensing Framework for Sparse Representations of High-Dimensional Models"
+title: Bayesian Compressive Sensing Framework for Sparse Representations of High-Dimensional Models
 authors: ["Khachik Sargsyan, Cosmin Safta, Bert Debusschere, Habib N. Najm "]
 event: SIAM Conference on Uncertainty Quantification
 event_url: https://archive.siam.org/meetings/uq14/

@@ -1,5 +1,5 @@
 ---
-title: "Density Estimation Framework for Model Error Estimation"
+title: Density Estimation Framework for Model Error Estimation
 authors: ["Khachik Sargsyan, Habib Najm, Jason Bender, Chi Feng, Youssef Marzouk"]
 abstract: "The representation and estimation of model structural errors is an important
 step in model development and in the Bayesian estimation of model parameters.

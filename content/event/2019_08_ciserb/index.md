@@ -1,9 +1,9 @@
 ---
 title: Embedded Model Error Quantification and Propagation in Physical Systems
 authors: ["Khachik Sargsyan"]
-event: 
+event: CIS External Advisory Board Review
 event_url: 
-location: 
+location: Sandia National Laboratories, Albuquerque, NM
 summary: Talk
 abstract: "<br>"
 date: "2019-08-26"

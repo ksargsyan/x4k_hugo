@@ -1,5 +1,5 @@
 ---
-title: Forward and Invers Uncertainty Quantificatio for ALM Single Point Model
+title: Forward and Inverse Uncertainty Quantification for ALM Single Point Model
 authors: ["Khachik Sargsyan, Daniel Ricciuto"]
 event: ACME PI Meeting
 event_url: 
