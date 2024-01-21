@@ -29,10 +29,10 @@ interests:
 
 education:
   courses:
-  - course: Ph.D. in Applied and Interdisciplinary Mathematics
+  - course: Ph.D. in Applied and Interdisciplinary Math
     institution: University of Michigan, Ann Arbor
     year: 2007
-  - course: B.S. in Applied Mathematics and Applied Physics
+  - course: B.S. in Applied Math and Applied Physics
     institution: Moscow Institute of Physics and Technology
     year: 2002
     

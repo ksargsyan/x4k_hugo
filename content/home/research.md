@@ -81,7 +81,7 @@ design:
 
 <br>
 
-* <a href=https://ThermChem>**FusMatML**</a>: Machine Learning Atomistic Modeling for Fusion Materials.
+* <a href="">**FusMatML**</a>: Machine Learning Atomistic Modeling for Fusion Materials.
   - Model error estimation and active learning of machine learning interatomic potentials.
   - Development of uncertainty quantification tools within <a href=https://github.com/FitSNAP/FitSNAP>**FitSNAP**</a>.
 
