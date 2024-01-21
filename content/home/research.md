@@ -87,7 +87,7 @@ design:
 
 <br>
 
-* <a href="">**NNRDS**</a>: Neural Networks as Random Dynamical Systems: advanced regularization methods for residual NNs relying on Neural ODE analogy.
+* <a href="">**NNRDS**</a>: Neural Networks as Random Dynamical Systems: advanced regularization methods for improving residual NN training and generalization via Neural ODE analogy.
   - Stiffness score penalization of ResNets,
   - Regularization via weight parameterization,
   - Augmenting NN predictions with uncertainty estimation.
