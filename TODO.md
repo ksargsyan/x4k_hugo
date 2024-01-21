@@ -1,6 +1,5 @@
 TODO:
 
-- Clean old Hugo folders
 - add projects or at least links?
 - sync with CRF page?
 
@@ -9,3 +8,5 @@ TODO:
 --2017_02_siamcse
 
 - add Oslo talk? (it is on CV)
+
+- Clean old Hugo folders

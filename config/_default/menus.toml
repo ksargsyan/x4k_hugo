@@ -11,22 +11,32 @@
 #[[main]]
 #  name = "Posts"
 #  url = "#posts"
-#  weight = 20
+#  weight = 55
+
+[[main]]
+  name = "Software"
+  url = "#software"
+  weight = 25
 
 #[[main]]
-#  name = "Research"
+#  name = "Projects"
 #  url = "#projects"
-#  weight = 30
+#  weight = 20
+
+[[main]]
+  name = "Research"
+  url = "#research"
+  weight = 20
 
 [[main]]
   name = "Talks"
   url = "#talks"
-  weight = 50
+  weight = 31
 
 [[main]]
   name = "Publications"
   url = "#publications"
-  weight = 40
+  weight = 30
 
 [[main]]
   name = "Contact"
@@ -38,4 +48,4 @@
 [[main]]
    name = "CV"
    url = "files/cv_Jan2024.pdf"
-   weight = 55
+   weight = 59

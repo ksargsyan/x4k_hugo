@@ -11,6 +11,8 @@ projects: []
 # Date published
 date: "2016-04-20T00:00:00Z"
 
+publishDate: "2016-04-20T00:00:00Z"
+
 # Date updated
 lastmod: "2020-12-13T00:00:00Z"
 

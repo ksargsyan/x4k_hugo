@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Principal Member of Technical Staff
+role: <a href=https://www.sandia.gov/crf/staff/khachik-sargsyan/>Principal Member of Technical Staff</a>
 
 # Organizations/Affiliations
 organizations:
@@ -90,6 +90,7 @@ I am a Principal Member of Technical Staff at Sandia National Laboratories in Li
 My research evolves around uncertainty quantification (UQ), statistical learning and predictability analysis of physical and computational models. 
 I have developed and applied methods for model reduction, UQ and data assimilation, targeting fundamental challenges such as structural errors, intrinsic stochasticity, high-dimensionality, limited data, discontinuities, and rare events, with a range of applications including climate modeling, chemical kinetics, turbulent combustion, fusion science, hardware architecture simulation. 
 
+<!--
 <b> Work Experience </b>
 
 
@@ -111,5 +112,6 @@ Sandia National Laboratories, Livermore, CA
   </li>
 </ul>
 
+-->
 
 <!--Khachik is one of the lead developers of UQTk (www.sandia.gov/uqtoolkit), a lightweight C++/Python software toolkit for quantification of uncertainties in model predictions. He is an active member of SciDAC FASTMath Institute, and leads UQ efforts for DOE flagship earth system model, E3SM (www.e3sm.org), focusing on land model development. He has published over sixty peer-reviewed journal articles. -->
