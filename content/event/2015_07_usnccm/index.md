@@ -12,6 +12,6 @@ tags:  []
 all_day:  false
 featured:  false
 math:  true
-url_pdf: ""
-loc: ""
+url_pdf: "files/talks/2015_07_usnccm.pdf"
+loc: "$WW/repos/talk_dist/usnccm15/talk_merr"
 ---
