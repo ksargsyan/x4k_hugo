@@ -7,3 +7,13 @@ TODO:
 - add Oslo talk? (it is on CV)
 
 - Clean old Hugo folders
+
+- useful https://gohugo.io/content-management/page-bundles/#readout
+
+
+Zeli paper
+AL-SNAP paper
+
+Kirk paper
+WPNN paper
+KLNN/ELM paper
