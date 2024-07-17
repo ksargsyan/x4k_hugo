@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: <a href=https://www.sandia.gov/crf/staff/khachik-sargsyan/>Principal Member of Technical Staff</a>
+role: <a href=https://www.sandia.gov/crf/staff/khachik-sargsyan/>Distinguished Member of Technical Staff</a>
 
 # Organizations/Affiliations
 organizations:
@@ -73,7 +73,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
   icon_pack: ai
-  link: files/cv_Jan2024.pdf
+  link: files/cv_July2024.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "ksargsy -at- sandia -dot- gov"
@@ -85,7 +85,7 @@ user_groups:
 - Visitors
 ---
 
-I am a Principal Member of Technical Staff at Sandia National Laboratories in Livermore, California (currently remote-working from Queens, New York). 
+I am a Distinguished Member of Technical Staff at Sandia National Laboratories in Livermore, California (currently remote-working from Queens, New York). 
 
 My research evolves around uncertainty quantification (UQ), statistical learning and predictability analysis of physical and computational models. 
 I have developed and applied methods for model reduction, UQ and data assimilation, targeting fundamental challenges such as structural errors, intrinsic stochasticity, high-dimensionality, limited data, discontinuities, and rare events, with a range of applications including climate modeling, chemical kinetics, turbulent combustion, fusion science, hardware architecture simulation. 
