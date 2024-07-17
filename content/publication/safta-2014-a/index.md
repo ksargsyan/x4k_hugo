@@ -1,7 +1,7 @@
 ---
 title: "Uncertainty Quantification Methods for Model Calibration, Validation, and Risk Analysis"
 date: 2014-01-01
-publishDate: 2024-07-17T17:07:40.169642Z
+publishDate: 2024-07-17T17:20:03.484585Z
 authors: ["Cosmin Safta", "Kenny Chowdhary", "Khachik Sargsyan", "Habib N. Najm", "Bert Debusschere", "Laura Swiler", "Michael Eldred"]
 publication_types: ["1"]
 abstract: "In this paper we propose a series of methodologies to address the problems in the NASA Langley Multidisciplinary UQ Challenge. A Bayesian approach is employed to characterize and calibrate the epistemic parameters in problem A, while variance-based global sensitivity analysis is proposed for problem B. For problems C and D we propose nested sampling methods for mixed aleatory-epistemic UQ."
