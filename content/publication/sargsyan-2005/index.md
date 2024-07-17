@@ -1,7 +1,7 @@
 ---
 title: "Fluctuations in Chemical Reactions in a Large Volume"
 date: 2005-07-01
-publishDate: 2024-03-06T22:52:41.208751Z
+publishDate: 2024-07-17T17:07:40.168532Z
 authors: ["Khachik Sargsyan"]
 publication_types: ["2"]
 abstract: ""

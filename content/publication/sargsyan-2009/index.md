@@ -1,7 +1,7 @@
 ---
 title: "Uncertainty Quantification in the Presence of Limited Climate Model Data with Discontinuities"
 date: 2009-12-01
-publishDate: 2024-03-06T22:52:41.191787Z
+publishDate: 2024-07-17T17:07:40.154873Z
 authors: ["Khachik Sargsyan", "Cosmin Safta", "Bert Debusschere", "Habib N. Najm"]
 publication_types: ["1"]
 abstract: "Uncertainty quantification in climate models is challenged by the sparsity of the available climate data due to the high computational cost of the model runs. Another feature that prevents classical uncertainty analyses from being easily applicable is the bifurcative behavior in the climate data with respect to certain parameters. A typical example is the Meridional Overturning Circulation in the Atlantic Ocean. The maximum overturning stream function exhibits discontinuity across a curve in the space of two uncertain parameters, namely climate sensitivity and CO2 forcing. We develop a methodology that performs uncertainty quantification in this context in the presence of limited data."
