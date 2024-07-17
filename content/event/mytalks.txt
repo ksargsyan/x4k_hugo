@@ -9,7 +9,7 @@
 #$WW/projects/NNRDS/repos/nn_rds/doc/review_Aug2023
 #$WW/projects/FMUQ/fmuq/fm5/doc/talk/fmath_allhands_2023
 #$WW/projects/FMUQ/fmuq/fm5/doc/talk/fmuq_mtg_uqnn_2023
-
+#$WW/projects/NNRDS/repos/nn_rds/doc/siamuq24
 
 ### PES
 
@@ -62,13 +62,18 @@
 
 #$WW/mytalks/scidac_Sep2023
 
-#$WW/projects/E3SM/Land_model_UQ/talks/AGU_2023
-#$WW/projects/E3SM/Land_model_UQ/talks/E3SM_poster2019
-#$WW/projects/E3SM/Land_model_UQ/talks/E3SM_AllHands_20210527
-#$WW/projects/E3SM/Land_model_UQ/talks/ESMD_20201028
-##$WW/projects/E3SM/Land_model_UQ/talks/ACME_Poster_Nov2016
-##$WW/projects/E3SM/Land_model_UQ/talks/ACME_Poster_Jun2017
-##$WW/projects/E3SM/Land_model_UQ/talks/ACME_Talk_Jun2016
+#$WW/projects/E3SM/Land_model_UQ/talks/CLMPPE_Feb2024
+#$WW/projects/E3SM/Land_model_UQ/talks/SIAMUQ_Mar2024
+#$WW/projects/E3SM/Land_model_UQ/talks/ESCO_Jun2024
+#$WW/projects/E3SM/Land_model_UQ/talks/ACES_April2024
+#$WW/projects/E3SM/Land_model_UQ/talks/FMUQ_May2024
+#$WW/projects/E3SM/Land_model_UQ/talks/2021-2023/AGU_2023
+#$WW/projects/E3SM/Land_model_UQ/talks/2021-2023/E3SM_AllHands_20210527
+#$WW/projects/E3SM/Land_model_UQ/talks/2018-2020/E3SM_poster2019
+#$WW/projects/E3SM/Land_model_UQ/talks/2018-2020/ESMD_20201028
+##$WW/projects/E3SM/Land_model_UQ/talks/2015-2017/ACME_Poster_Nov2016
+##$WW/projects/E3SM/Land_model_UQ/talks/2015-2017/ACME_Poster_Jun2017
+##$WW/projects/E3SM/Land_model_UQ/talks/2015-2017/ACME_Talk_Jun2016
 
 #$WW/projects/OSCM/repos/cluq/doc/talk/agu21/calib
 #$WW/projects/OSCM/repos/cluq/doc/talk/siamcse21

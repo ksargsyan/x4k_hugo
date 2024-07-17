@@ -3,7 +3,7 @@ title: Uncertainty Quantification in Neural Networks
 authors: ["Khachik Sargsyan"]
 event: FASTMath-UQ Meeting
 event_url: 
-location: virtual
+location: (virtual) Livermore, CA
 summary: Talk
 abstract: "<br>"
 date: "2023-11-06"
