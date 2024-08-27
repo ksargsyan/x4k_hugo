@@ -35,6 +35,7 @@ ranging from chemical modeling to climate science.
 <br> 
 [1] Kennedy, M.C. and O’Hagan, A., “Bayesian calibration of computer models”. Journal of the
 Royal Statistical Society: Series B (Statistical Methodology), 63: 425-464. 2001.
+<br>
 [2] K. Sargsyan, X. Huan, H. N. Najm. “Embedded Model Error Representation for Bayesian Model
 Calibration”, International Journal of Uncertainty Quantification, 9:4, pp. 365–394, 2019.<br>"
 date: "2024-08-14"
