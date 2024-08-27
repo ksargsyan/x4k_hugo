@@ -29,6 +29,7 @@
 
 ### MODEL ERROR
 
+#$WW/repos/merr_dist/doc/uq_mlip24
 #$WW/repos/merr_dist/doc/siam_uq20
 #$WW/repos/merr_dist/doc/siam_cse19
 #$WW/repos/merr_dist/doc/siam_uq18
