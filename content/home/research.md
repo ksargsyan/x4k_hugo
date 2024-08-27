@@ -13,7 +13,7 @@ headless: true
 weight: 40
 
 title: Current Projects
-subtitle: (and my role in them)
+subtitle: (and my roles in them)
 
 content:
   # Page type to display. E.g. post, talk, publication...
