@@ -11,6 +11,8 @@ TODO:
 - useful https://gohugo.io/content-management/page-bundles/#readout
 
 
+- in research highlights: add colleague acknowledgements, and references to talks, improve fig quality.
+
 Zeli paper
 AL-SNAP paper
 
