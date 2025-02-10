@@ -13,9 +13,8 @@ TODO:
 
 - in research highlights: add colleague acknowledgements, and references to talks, improve fig quality.
 
+Joy's paper add DOI
 Zeli paper
-AL-SNAP paper
-
-Kirk paper
 WPNN paper
+
 KLNN/ELM paper
