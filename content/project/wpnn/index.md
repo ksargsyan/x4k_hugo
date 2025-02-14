@@ -41,13 +41,12 @@ Besides, weight-parameterized (WP) ResNets become more amenable to Bayesian trea
 
 
 <br> <b>Figure </b></br>
-Implemented and planned methods in QUiNN. 
+Demonstration of improved generalization with WP ResNets. 
 
 <br> <b>Acknowledgements </b></br>
 This work is supported by SNL LDRD program.
 
 <br> <b>References </b></br>
-[1] O.H. Diaz-Ibarra, K. Sargsyan, H.N. Najm, “Surrogate Construction via Weight Parameterization of Residual Neural Networks”, submitted to Computer Methods in Applied Mechanics and Engineering, 2024.
-
+[1] O.H. Diaz-Ibarra, K. Sargsyan, H.N. Najm, “Surrogate Construction via Weight Parameterization of Residual Neural Networks”, Computer Methods in Applied Mechanics and Engineering, 433(A), January, 2025.
 
 
