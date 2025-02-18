@@ -1,5 +1,5 @@
 ---
-title: TBD
+title: Uncertainty Quantification in Computational Science -- from Physical Models to Neural Networks
 authors: ["Khachik Sargsyan"]
 event: BIRS Workshop Uncertainty Quantification in Neural Network Models
 event_url: https://www.birs.ca/events/2025/5-day-workshops/25w5381/schedule
