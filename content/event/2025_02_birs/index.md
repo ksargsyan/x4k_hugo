@@ -1,8 +1,8 @@
 ---
 title: TBD
 authors: ["Khachik Sargsyan"]
-event: TBD
-event_url: TBD
+event: BIRS Workshop Uncertainty Quantification in Neural Network Models
+event_url: https://www.birs.ca/events/2025/5-day-workshops/25w5381/schedule
 location: Banff, Canada
 summary: Talk
 abstract: "<br>"
@@ -12,6 +12,6 @@ tags:  []
 all_day:  false
 featured:  false
 math:  true
-url_pdf: "files/talks/2024_08_uqmlip.pdf"
-loc: "$WW/repos/merr_dist/doc/uq_mlip24"
+url_pdf: "files/talks/2025_02_birs.key"
+loc: "$WW/mytalks/banff_Feb2025"
 ---
