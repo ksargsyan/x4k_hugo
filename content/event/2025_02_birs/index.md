@@ -1,5 +1,5 @@
 ---
-title: Uncertainty Quantification in Computational Science: from Physical Models to Neural Networks
+title: TBD
 authors: ["Khachik Sargsyan"]
 event: TBD
 event_url: TBD
