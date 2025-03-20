@@ -45,11 +45,15 @@ design:
 ---
 
 
-* <a href=https://www.sandia.gov/uqtoolkit>**UQTk**</a>: The UQ Toolkit (UQTk) is a collection of C++/Python libraries and tools for the quantification of uncertainty in numerical model predictions. 
+* <a href=https://github.com/sandialabs/pytuq>**PyTUQ**</a>: Python Toolkit for Uncertainty Quantification is a set of tools and workflows for uncertainty quantification tasks including forward propagation and inverse modeling. 
 
 <br>
 
 * <a href=https://github.com/sandialabs/quinn>**QUiNN**</a>: Quantification of Uncertainties in Neural Network (QUiNN) is a python library centered around various probabilistic wrappers over PyTorch modules in order to provide uncertainty estimation in neural network predictions.
+
+<br>
+
+* <a href=https://www.sandia.gov/uqtoolkit>**UQTk**</a>: The UQ Toolkit (UQTk) is a collection of C++/Python libraries and tools for the quantification of uncertainty in numerical model predictions. 
 
 <br>
 
