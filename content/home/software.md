@@ -45,7 +45,7 @@ design:
 ---
 
 
-* <a href=https://github.com/sandialabs/pytuq>**PyTUQ**</a>: Python Toolkit for Uncertainty Quantification is a set of tools and workflows for uncertainty quantification tasks including forward propagation and inverse modeling. 
+* <a href=https://github.com/sandialabs/pytuq>**PyTUQ**</a>: Python Toolkit for Uncertainty Quantification (PyTUQ) is a set of tools and workflows for uncertainty quantification tasks including forward propagation and inverse modeling. 
 
 <br>
 
