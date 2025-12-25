@@ -149,6 +149,9 @@
 ### OTHER 
 
 #$WW/mytalks/banff_Feb2025
+#$WW/mytalks/AANL_July2024
+#$WW/projects/RadUQ/raduq/doc/inverse_Apr25
+#$WW/mytalks/ECC_fortnightly_Mar2025
 
 #$WW/projects/PSI2NE/repos/psi/doc/talk/fmath_june19
 ##$WW/projects/PSI2NE/repos/psi/doc/talk/update_may18
