@@ -23,6 +23,7 @@
 #$WW/projects/FusMatML/repos/fumat/doc/talk/usacm_mlip_Aug2022
 #$WW/projects/FusMatML/repos/fumat/doc/talk/allhands_Sep2022
 #$WW/projects/FusMatML/repos/fumat/doc/talk/siam_cse23
+#$WW/projects/ThermChem/talks
 
 ##$WW/mytalks/dschem_May19
 ##$WW/mytalks/dschem_Oct18
