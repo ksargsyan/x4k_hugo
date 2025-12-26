@@ -144,6 +144,7 @@
 #$WW/projects/QUEST/quest_dist/doc/talk/byu20
 ##$WW/mytalks/umich18
 #$WW/projects/QUEST/quest_dist/doc/talk/slb16
+$WW/repos/pytuq-local/pytuq-administration/PyTUQStructureTalk
 
 
 ### OTHER 
