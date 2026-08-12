@@ -1,5 +1,5 @@
 ---
-title: Parametric Uncertainty Quantification and Dimensionality Reductio for ALM at FLUXNET sites
+title: Parametric Uncertainty Quantification and Dimensionality Reduction for ALM at FLUXNET sites
 authors: ["Khachik Sargsyan, Daniel Ricciuto"]
 event: ACME Fall PI Meeting
 event_url: 
