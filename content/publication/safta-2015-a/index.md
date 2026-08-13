@@ -1,7 +1,7 @@
 ---
 title: "Hybrid Discrete/Continuum Algorithms for Stochastic Reaction Networks"
 date: 2015-01-01
-publishDate: 2025-12-25T08:28:15.222984Z
+publishDate: 2026-08-13T21:57:53.201430Z
 authors: ["Cosmin Safta", "Khachik Sargsyan", "Bert Debusschere", "Habib N. Najm"]
 publication_types: ["2"]
 abstract: "Direct solutions of the Chemical Master Equation (CME) governing Stochastic Reaction Networks (SRNs) are generally prohibitively expensive due to excessive numbers of possible discrete states in such systems. To enhance computational efficiency we develop a hybrid approach where the evolution of states with low molecule counts is treated with the discrete CME model while that of states with large molecule counts is modeled by the continuum Fokker–Planck equation. The Fokker–Planck equation is discretized using a 2nd order finite volume approach with appropriate treatment of flux components. The numerical construction at the interface between the discrete and continuum regions implements the transfer of probability reaction by reaction according to the stoichiometry of the system. The performance of this novel hybrid approach is explored for a two-species circadian model with computational efficiency gains of about one order of magnitude."
