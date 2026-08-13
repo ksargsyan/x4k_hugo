@@ -1,5 +1,5 @@
 ---
-title: PyTUQ: UQ Tools and Workflows for Computational Models
+title: PyTUQ - UQ Tools and Workflows for Computational Models
 authors: ["Khachik Sargsyan, Emilie Grace Eduria Baillo, Bert Debusschere"]
 event: SIAM Conference on Uncertainty Quantification
 event_url: https://www.siam.org/conferences-events/past-event-archive/uq26/
