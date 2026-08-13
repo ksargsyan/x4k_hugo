@@ -18,3 +18,5 @@ Zeli paper
 WPNN paper
 
 KLNN/ELM paper
+
+see x4k.gdoc Publ sheet
