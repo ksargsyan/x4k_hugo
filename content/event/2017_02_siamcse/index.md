@@ -12,6 +12,6 @@ tags:  []
 all_day:  false
 featured:  false
 math:  true
-url_pdf: ""
+url_pdf: "files/talks/2017_02_siamcse.pdf"
 loc: "$WW/projects/SCRAM/repos/scram/doc/talk/siam_cse17/moderr"
 ---
