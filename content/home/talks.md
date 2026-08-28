@@ -30,6 +30,9 @@ content:
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
+  # Archive link, displayed if there are more pages than the `count` above.
+  archive:
+    text: 'See all talks'
 
 design:
   # Choose a view for the listings:
