@@ -5,7 +5,7 @@ event: CLM PPE Webinar
 event_url: https://github.com/djk2120/CLM5PPE/wiki/Meeting-Notes#february-15-2024
 location: virtual
 summary: Talk
-abstract: "<br>"
+abstract: "PDF link may fail to capture animations. Alternatively, download the underlying PowerPoint file of the presentation [2024_02_clmppe.pptx](https://www.ksargsyan.net/files/talks/2024_02_clmppe.pptx).<br>"
 date: "2024-02-15"
 publishDate: "2024-02-15"
 tags:  []

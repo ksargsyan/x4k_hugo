@@ -5,7 +5,7 @@ event: Internal Seminar
 event_url: 
 location: virtual
 summary: Talk
-abstract: "PDF link may fail to capture animations. Alternatively, download the underlying Mac Keynote file of the presentation [bayesian_modeling.key](https://www.ksargsyan.net/files/talks/bayesian_modeling.key).<br>"
+abstract: "PDF link may fail to capture animations. Alternatively, download the underlying Mac Keynote file of the presentation [2025_04_raduq.key](https://www.ksargsyan.net/files/talks/2025_04_raduq.key).<br>"
 date: "2025-04-22"
 publishDate: "2025-04-22"
 tags:  []

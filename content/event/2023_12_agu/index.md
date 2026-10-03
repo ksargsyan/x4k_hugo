@@ -1,5 +1,6 @@
 ---
 title: Reduced-Dimensional Neural Network Surrogate Construction and Calibration of the E3SM Land Model
+slug: "reduced-dimensional-neural-network-surrogate-construction-and-calibration-of-the-e3sm-land-model-2023-12"
 authors: ["Khachik Sargsyan, Daniel Ricciuto"]
 event: AGU Fall Meeting 2023
 event_url: https://agu.confex.com/agu/fm23/meetingapp.cgi/Search/0

@@ -12,6 +12,6 @@ tags:  []
 all_day:  false
 featured:  false
 math:  true
-url_pdf: "files/mmldt2021.pdf"
+url_pdf: "files/talks/2021_09_mmldt.pdf"
 loc: "$WW/projects/FusMatML/repos/fumat/doc/talk/mmldt2021"
 ---

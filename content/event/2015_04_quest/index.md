@@ -12,6 +12,6 @@ tags:  []
 all_day:  false
 featured:  false
 math:  true
-url_pdf: "files/quest_Apr2015.pdf"
+url_pdf: "files/talks/2015_04_quest.pdf"
 loc: "$WW/projects/FEMPI/mp_dist/doc/quest_Apr2015"
 ---

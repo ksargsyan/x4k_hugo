@@ -1,5 +1,6 @@
 ---
 title: High-Dimensional Sparse Surrogate Construction via Bayesian Compressive Sensing   
+slug: "high-dimensional-sparse-surrogate-construction-via-bayesian-compressive-sensing-2015-04"
 authors: ["Khachik Sargsyan, Cosmin Safta, Habib N. Najm, Bert Debusschere, Daniel Ricciuto, Peter Thornton"]
 event: Pan-American Congress on Computational Mechanics
 event_url: https://amcaonline.org.ar/foswiki/Main/AMCA/CongressPANACM2015

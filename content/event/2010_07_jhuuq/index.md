@@ -1,5 +1,6 @@
 ---
 title: Uncertainty Quantification in Climate Modeling
+slug: "uncertainty-quantification-in-climate-modeling-2010-07"
 authors: ["Khachik Sargsyan, Cosmin Safta, Bert Debusschere, Habib Najm"]
 event: Multiscale UQ Workshop at JHU
 event_url: 

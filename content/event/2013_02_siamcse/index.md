@@ -1,5 +1,6 @@
 ---
 title: High-dimensional Polynomial Chaos Basis Selection with Bayesian Compressive Sensing
+slug: "high-dimensional-polynomial-chaos-basis-selection-with-bayesian-compressive-sensing-2013-02"
 authors: ["Khachik Sargsyan, Cosmin Safta, Daniel Ricciuto, Bert Debusschere, Habib Najm, Peter Thornton"]
 event: SIAM Conference on Computational Science and Engineering
 event_url: https://archive.siam.org/meetings/cse13/

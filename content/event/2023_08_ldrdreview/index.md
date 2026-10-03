@@ -12,6 +12,6 @@ tags:  []
 all_day:  false
 featured:  false
 math:  true
-url_pdf: ""
+url_pdf: "files/talks/2023_08_ldrdreview.pdf"
 loc: "${WW}/projects/NNRDS/repos/nn_rds/doc/review_Aug2023"
 ---

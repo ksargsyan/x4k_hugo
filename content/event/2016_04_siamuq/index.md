@@ -1,5 +1,6 @@
 ---
 title: Density Estimation Framework for Model Error Quantification
+slug: "density-estimation-framework-for-model-error-quantification-2016-04"
 authors: ["Khachik Sargsyan, Habib N. Najm, Jason Bender, Chi Feng, Youssef Marzouk"]
 event: SIAM Conference on Uncertainty Quantification
 event_url: https://archive.siam.org/meetings/uq16/

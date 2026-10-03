@@ -1,5 +1,6 @@
 ---
 title: Reduced-Dimensional Neural Network Surrogate Construction for the E3SM Land Model
+slug: "reduced-dimensional-neural-network-surrogate-construction-for-the-e3sm-land-model-2024-03"
 authors: ["Khachik Sargsyan, Daniel Ricciuto"]
 event: SIAM Conference on Uncertainty Quantification
 event_url: https://www.siam.org/conferences/cm/conference/uq24

@@ -12,6 +12,6 @@ tags:  []
 all_day:  false
 featured:  false
 math:  true
-url_pdf: ""
+url_pdf: "files/talks/2018_12_agu.pdf"
 loc: "$WW/projects/OSCM/repos/OSCM_SciDAC/presentations/agu18"
 ---

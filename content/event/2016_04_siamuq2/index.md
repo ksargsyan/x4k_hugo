@@ -1,5 +1,6 @@
 ---
 title: Quantifying the Impacts of Parametric Uncertainty on Biogeochemistry in the ACME Land Model
+slug: "quantifying-the-impacts-of-parametric-uncertainty-on-biogeochemistry-in-the-acme-land-model-2016-04"
 authors: ["Khachik Sargsyan, Daniel Ricciuto, Peter Thornton"]
 event: SIAM Conference on Uncertainty Quantification
 event_url: https://archive.siam.org/meetings/uq16/

@@ -32,6 +32,6 @@ tags:  []
 all_day:  false
 featured:  false
 math:  true
-url_pdf: "files/talks/hvd_wkshp18.pdf"
+url_pdf: "files/talks/2018_05_harvard.pdf"
 loc: "$WW/repos/merr_dist/doc/hvd_wkshp18"
 ---
