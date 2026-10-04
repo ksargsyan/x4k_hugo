@@ -8,7 +8,7 @@ summary: Talk
 abstract: "<br>"
 date: "2018-05-23"
 publishDate: "2018-05-23"
-tags:  []
+tags: ["bayesian-inference", "fusion-nuclear"]
 all_day:  false
 featured:  false
 math:  true

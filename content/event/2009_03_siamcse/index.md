@@ -8,7 +8,7 @@ summary: Talk
 abstract: "Reduced Order Modeling and Dynamical Analysis in Stochastic Reaction Networks<br>"
 date: "2009-03-02"
 publishDate: "2009-03-02"
-tags:  []
+tags: ["stochastic-dynamics", "polynomial-chaos"]
 all_day:  false
 featured:  false
 math:  true

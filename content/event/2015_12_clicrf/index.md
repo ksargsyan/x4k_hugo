@@ -8,7 +8,7 @@ summary: Poster
 abstract: "<br>"
 date: "2015-12-09"
 publishDate: "2063-09-13"
-tags:  []
+tags: ["surrogate-modeling", "sensitivity-analysis", "earth-system-models"]
 all_day:  false
 featured:  false
 math:  true

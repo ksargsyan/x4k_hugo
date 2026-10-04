@@ -8,7 +8,7 @@ summary: Poster
 abstract: "Uncertainty Quantification and Propagation for Impurity Migration<br>"
 date: "2019-07-16"
 publishDate: "2019-07-16"
-tags:  []
+tags: ["bayesian-inference", "fusion-nuclear"]
 all_day:  false
 featured:  false
 math:  true

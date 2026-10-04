@@ -40,7 +40,7 @@ Royal Statistical Society: Series B (Statistical Methodology), 63: 425-464. 2001
 Calibration”, International Journal of Uncertainty Quantification, 9:4, pp. 365–394, 2019.<br>"
 date: "2024-08-14"
 publishDate: "2024-08-14"
-tags:  []
+tags: ["model-error", "bayesian-inference"]
 all_day:  false
 featured:  false
 math:  true

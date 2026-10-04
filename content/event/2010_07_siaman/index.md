@@ -8,7 +8,7 @@ summary: Talk
 abstract: "Uncertainty quantification in climate models is challenged by the sparsity and bifurcative character of the available climate data. To circumvent these challenges we propose a methodology that employs Bayesian inference to locate discontinuities in the model output, followed by an efficient propagation of uncertain quantities using spectral expansions of random parameters/fields. Stochastic emulators are used to assess the performance of the proposed approach.<br><br>"
 date: "2010-07-14"
 publishDate: "2010-07-14"
-tags:  []
+tags: ["bayesian-inference", "polynomial-chaos", "surrogate-modeling", "earth-system-models"]
 all_day:  false
 featured:  false
 math:  true

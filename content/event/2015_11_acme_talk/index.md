@@ -8,7 +8,7 @@ summary: Talk
 abstract: ""
 date: "2015-11-05"
 publishDate: "2015-11-05"
-tags:  []
+tags: ["surrogate-modeling", "polynomial-chaos", "earth-system-models"]
 all_day:  false
 featured:  false
 math:  true

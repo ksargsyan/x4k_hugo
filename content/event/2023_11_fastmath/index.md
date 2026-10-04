@@ -8,7 +8,7 @@ summary: Talk
 abstract: "<br>"
 date: "2023-11-02"
 publishDate: "2023-11-02"
-tags:  []
+tags: ["neural-networks", "bayesian-inference"]
 all_day:  false
 featured:  false
 math:  true

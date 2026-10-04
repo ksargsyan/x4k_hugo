@@ -8,7 +8,7 @@ summary: Poster
 abstract: ""
 date: "2018-11-06"
 publishDate: "2018-11-06"
-tags:  []
+tags: ["tutorial", "surrogate-modeling", "bayesian-inference", "earth-system-models"]
 all_day:  false
 featured:  false
 math:  true

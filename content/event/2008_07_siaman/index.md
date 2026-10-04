@@ -8,7 +8,7 @@ summary: Talk
 abstract: "Predictability and Reduced Order Modeling in Stochastic Reaction Networks<br>"
 date: "2008-07-07"
 publishDate: "2008-07-07"
-tags:  []
+tags: ["stochastic-dynamics", "polynomial-chaos"]
 all_day:  false
 featured:  false
 math:  true

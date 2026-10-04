@@ -8,7 +8,7 @@ summary: Talk
 abstract: "Fast Evaluation of Many-Body Perturbation Integrals (FEMPI)<br>"
 date: "2015-04-02"
 publishDate: "2015-04-02"
-tags:  []
+tags: ["computational-chemistry", "surrogate-modeling"]
 all_day:  false
 featured:  false
 math:  true

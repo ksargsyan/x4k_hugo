@@ -8,7 +8,7 @@ summary: Talk
 abstract: "PDF link may fail to capture animations. Alternatively, download the underlying PowerPoint file of the presentation [2024_02_clmppe.pptx](https://www.ksargsyan.net/files/talks/2024_02_clmppe.pptx).<br>"
 date: "2024-02-15"
 publishDate: "2024-02-15"
-tags:  []
+tags: ["neural-networks", "surrogate-modeling", "dimensionality-reduction", "bayesian-inference", "earth-system-models"]
 all_day:  false
 featured:  false
 math:  true

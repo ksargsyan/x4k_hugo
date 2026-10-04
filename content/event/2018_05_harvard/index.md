@@ -28,7 +28,7 @@ location: Radcliffe Institute for Advanced Study, Cambridge, MA
 summary: Talk
 date: "2018-05-31"
 publishDate: "2018-05-31"
-tags:  []
+tags: ["model-error", "bayesian-inference"]
 all_day:  false
 featured:  false
 math:  true

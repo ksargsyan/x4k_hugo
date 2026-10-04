@@ -8,7 +8,7 @@ summary: Talk
 abstract: "Predictability Assessment in Stochastic Reaction Networks<br>"
 date: "2011-03-07"
 publishDate: "2011-03-07"
-tags:  []
+tags: ["stochastic-dynamics", "polynomial-chaos", "bayesian-inference"]
 all_day:  false
 featured:  false
 math:  true

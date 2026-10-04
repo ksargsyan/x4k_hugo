@@ -8,7 +8,7 @@ summary: Talk
 abstract: "<br>"
 date: "2019-08-26"
 publishDate: "2019-08-26"
-tags:  []
+tags: ["model-error", "bayesian-inference"]
 all_day:  false
 featured:  false
 math:  true

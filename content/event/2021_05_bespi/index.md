@@ -8,7 +8,7 @@ summary: Talk
 abstract: ""
 date: "2021-05-05"
 publishDate: "2021-05-05"
-tags:  []
+tags: ["neural-networks", "computational-chemistry"]
 all_day:  false
 featured:  false
 math:  true

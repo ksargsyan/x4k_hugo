@@ -8,7 +8,7 @@ summary: Talk
 abstract: ""
 date: "2020-10-16"
 publishDate: "2020-10-16"
-tags:  []
+tags: ["neural-networks", "surrogate-modeling", "earth-system-models"]
 all_day:  false
 featured:  false
 math:  true

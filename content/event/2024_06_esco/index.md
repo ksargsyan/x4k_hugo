@@ -12,7 +12,7 @@ We demonstrate the surrogate construction and calibration for ELM with 275 train
 [1] D. Ricciuto and K. Sargsyan and P. Thornton. The Impact of Parametric Uncertainties on Biogeochemistry in the E3SM Land Model. Journal of Advances in Modeling Earth Systems, 10 (2), 297-319, 2018."
 date: "2024-06-10"
 publishDate: "2024-06-10"
-tags:  []
+tags: ["surrogate-modeling", "dimensionality-reduction", "neural-networks", "bayesian-inference", "earth-system-models"]
 all_day:  false
 featured:  false
 math:  true

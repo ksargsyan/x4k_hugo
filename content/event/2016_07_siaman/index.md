@@ -8,7 +8,7 @@ location: Boston, MA
 summary: Talk
 date: "2016-07-11"
 publishDate: "2016-07-11"
-tags:  []
+tags: ["model-error", "bayesian-inference"]
 all_day:  false
 featured:  false
 math:  true

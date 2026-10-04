@@ -18,7 +18,7 @@ location: Sardinia, Italy
 summary: Poster
 date: "2016-06-13"
 publishDate: "2016-06-13"
-tags:  []
+tags: ["model-error", "bayesian-inference"]
 all_day:  false
 featured:  false
 math:  true

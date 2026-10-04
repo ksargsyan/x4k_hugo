@@ -8,7 +8,7 @@ summary: Poster
 abstract: "Predictive uncertainties in the Energy Exascale Earth System (E3SM) land model (ELM) are caused in part by uncertain parameters controlling evolution of carbon and energy. We develop dimensionality reduction and surrogate-enabled calibration methods to perform global sensitivity analysis and model calibration tackling the challenge of high dimensional spatio-temporal ELM outputs. We demonstrate the surrogate construction and calibration for ELM with 275 training simulations at 2x2 degree spatial and monthly temporal resolution over a 15-year time period while perturbing 10 model parameters."
 date: "2024-04-24"
 publishDate: "2024-04-24"
-tags:  []
+tags: ["surrogate-modeling", "dimensionality-reduction", "bayesian-inference", "earth-system-models"]
 all_day:  false
 featured:  false
 math:  true

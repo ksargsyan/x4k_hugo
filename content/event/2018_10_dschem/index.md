@@ -8,7 +8,7 @@ summary: Talk
 abstract: "<br>"
 date: "2018-10-23"
 publishDate: "2018-10-23"
-tags:  []
+tags: ["neural-networks", "computational-chemistry"]
 all_day:  false
 featured:  false
 math:  true

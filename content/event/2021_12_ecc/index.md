@@ -8,7 +8,7 @@ summary: Talk
 abstract: ""
 date: "2021-12-08"
 publishDate: "2051-12-08"
-tags:  []
+tags: ["combustion-kinetics", "polynomial-chaos", "sensitivity-analysis", "neural-networks"]
 all_day:  false
 featured:  false
 math:  true

@@ -8,7 +8,7 @@ summary: Talk
 abstract: "<br>"
 date: "2016-06-07"
 publishDate: "2016-06-07"
-tags:  []
+tags: ["sensitivity-analysis", "surrogate-modeling", "polynomial-chaos", "earth-system-models"]
 all_day:  false
 featured:  false
 math:  true

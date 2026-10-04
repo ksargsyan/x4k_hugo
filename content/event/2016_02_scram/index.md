@@ -8,7 +8,7 @@ summary: Talk
 abstract: "<br>"
 date: "2016-02-29"
 publishDate: "2016-02-29"
-tags:  []
+tags: ["model-error", "bayesian-inference", "combustion-kinetics"]
 all_day:  false
 featured:  false
 math:  true

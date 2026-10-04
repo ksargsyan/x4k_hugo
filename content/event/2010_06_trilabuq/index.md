@@ -8,7 +8,7 @@ summary: Talk
 abstract: "Advanced Tools for Uncertainty Quantification in Climate Modeling<br>"
 date: "2010-06-28"
 publishDate: "2010-06-28"
-tags:  []
+tags: ["polynomial-chaos", "bayesian-inference", "sensitivity-analysis", "earth-system-models"]
 all_day:  false
 featured:  false
 math:  true

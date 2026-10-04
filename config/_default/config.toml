@@ -90,9 +90,10 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
     name = "title"
     weight = 60.0
 
+  # summary is just "Talk"/"Poster" on talk pages, which made talks rank each other
   [[related.indices]]
     name = "summary"
-    weight = 50.0
+    weight = 0.0
 
   [[related.indices]]
     name = "tags"

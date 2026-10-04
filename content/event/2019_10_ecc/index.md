@@ -8,7 +8,7 @@ summary: Talk
 abstract: "<br>"
 date: "2019-10-28"
 publishDate: "2019-10-28"
-tags:  []
+tags: ["active-learning", "surrogate-modeling", "computational-chemistry"]
 all_day:  false
 featured:  false
 math:  true

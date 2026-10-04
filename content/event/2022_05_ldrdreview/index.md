@@ -8,7 +8,7 @@ summary: Talk
 abstract: "<br>"
 date: "2022-05-12"
 publishDate: "2050-01-01"
-tags:  []
+tags: ["neural-networks", "stochastic-dynamics"]
 all_day:  false
 featured:  false
 math:  true

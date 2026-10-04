@@ -11,7 +11,7 @@ In this work, we used Karhunen-Loève (KL) expansion to reduce a large number of
 We demonstrate the spatio-temporal surrogate construction and subsequent calibration for ELM with 275 training simulations at 2x2 degree spatial resolution and monthly temporal resolution over a 15-year time period while perturbing 10 uncertain parameters of the model."
 date: "2023-12-11"
 publishDate: "2023-12-11"
-tags:  []
+tags: ["neural-networks", "surrogate-modeling", "dimensionality-reduction", "bayesian-inference", "earth-system-models"]
 all_day:  false
 featured:  false
 math:  true

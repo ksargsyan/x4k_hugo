@@ -8,7 +8,7 @@ summary: Poster
 abstract: "<br>"
 date: "2016-11-10"
 publishDate: "2016-11-10"
-tags:  []
+tags: ["surrogate-modeling", "dimensionality-reduction", "earth-system-models"]
 all_day:  false
 featured:  false
 math:  true

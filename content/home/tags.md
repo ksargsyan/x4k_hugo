@@ -4,22 +4,23 @@
 widget: tag_cloud
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 120
+weight: 55
 
-title: Popular Topics
+title: Browse by Topic
 subtitle: ''
 
 content:
 # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)
   taxonomy: tags
   # Choose how many tags you would like to display (0 = all tags)
-  count: 20
+  # 25 = the 23 talk/publication tags + project tags UQ, ML; leaves out the demo post's one-off tags
+  count: 25
 design:
   # Minimum and maximum font sizes (1.0 = 100%).
   font_size_min: 0.7

@@ -8,7 +8,7 @@ summary: Talk
 abstract: "UQ challenges and techniques to address them<br><br>"
 date: "2012-02-23"
 publishDate: "2012-02-23"
-tags:  []
+tags: ["tutorial", "polynomial-chaos", "bayesian-inference", "sensitivity-analysis"]
 all_day:  false
 featured:  false
 math:  true

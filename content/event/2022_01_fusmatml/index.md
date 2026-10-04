@@ -9,7 +9,7 @@ summary: Talk
 abstract: "<br>"
 date: "2022-01-13"
 publishDate: "2062-01-13"
-tags:  []
+tags: ["model-error", "bayesian-inference", "interatomic-potentials"]
 all_day:  false
 featured:  false
 math:  true

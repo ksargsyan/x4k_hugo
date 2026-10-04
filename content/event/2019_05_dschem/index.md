@@ -8,7 +8,7 @@ summary: Talk
 abstract: "<br>"
 date: "2019-05-21"
 publishDate: "2019-05-21"
-tags:  []
+tags: ["active-learning", "interatomic-potentials"]
 all_day:  false
 featured:  false
 math:  true

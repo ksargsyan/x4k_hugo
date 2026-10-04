@@ -8,7 +8,7 @@ summary: Talk
 abstract: ""
 date: "2022-06-06"
 publishDate: "2022-06-06"
-tags:  []
+tags: ["interatomic-potentials", "model-error", "bayesian-inference", "neural-networks"]
 all_day:  false
 featured:  false
 math:  true

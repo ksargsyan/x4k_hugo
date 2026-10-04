@@ -8,7 +8,7 @@ summary: Talk
 abstract: "<br>"
 date: "2010-02-24"
 publishDate: "2010-02-24"
-tags:  []
+tags: ["stochastic-dynamics", "polynomial-chaos", "bayesian-inference", "earth-system-models"]
 all_day:  false
 featured:  false
 math:  true

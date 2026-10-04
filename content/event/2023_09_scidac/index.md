@@ -9,7 +9,7 @@ summary: Poster
 abstract: "<br>"
 date: "2023-09-13"
 publishDate: "2023-09-13"
-tags:  []
+tags: ["surrogate-modeling", "dimensionality-reduction", "bayesian-inference", "earth-system-models"]
 all_day:  false
 featured:  false
 math:  true
