@@ -1,0 +1,36 @@
+{{/* "Topic" filter dropdown for the Publications and Talks list pages.
+     Context: dict "pages" <Pages> "class" <extra select classes> "group" <data-filter-group>
+              "after_load" <bool: apply ?topic= only after the theme's own load-time filter setup>.
+     Option values are ".tag-<tag>" selectors matched against item classes; "" = all.
+     A ?topic=<tag> query parameter preselects a topic (and is kept in sync on change). */}}
+{{ $pages := .pages }}
+{{ $tags := slice }}
+{{ range $pages }}{{ range .Params.tags }}{{ $tags = $tags | append . }}{{ end }}{{ end }}
+<select id="topic-select" class="{{ .class }} form-control form-control-sm" {{ with .group }}data-filter-group="{{ . }}"{{ end }} aria-label="Filter by topic">
+  <option value="">Topic</option>
+  {{ range $t := sort (uniq $tags) }}
+  <option value=".tag-{{ $t | urlize }}">{{ $t }} ({{ len (where $pages "Params.tags" "intersect" (slice $t)) }})</option>
+  {{ end }}
+</select>
+<script>
+  (function () {
+    var sel = document.getElementById('topic-select');
+    function applyFromUrl() {
+      var topic = new URLSearchParams(window.location.search).get('topic');
+      if (topic && sel.querySelector('option[value=".tag-' + CSS.escape(topic) + '"]')) {
+        sel.value = '.tag-' + topic;
+        sel.dispatchEvent(new Event('change', {bubbles: true}));
+      }
+    }
+    {{ if .after_load }}
+    window.addEventListener('load', function () { setTimeout(applyFromUrl, 0); });
+    {{ else }}
+    document.addEventListener('DOMContentLoaded', applyFromUrl);
+    {{ end }}
+    sel.addEventListener('change', function () {
+      var url = new URL(window.location.href);
+      if (sel.value) { url.searchParams.set('topic', sel.value.slice(5)); } else { url.searchParams.delete('topic'); }
+      window.history.replaceState(null, '', url);
+    });
+  })();
+</script>

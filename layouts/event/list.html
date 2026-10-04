@@ -10,14 +10,21 @@
       <div class="article-style">{{ . }}</div>
       {{ end }}
 
+      <div class="form-row mb-4">
+        <div class="col-auto">
+          {{ partial "topic_select" (dict "pages" .Data.Pages "class" "talk-filter") }}
+        </div>
+      </div>
+
       {{ range .Data.Pages.GroupByDate "2006" }}
-      <div class="row" id="talk_list">
+      <div class="row talk-year" id="talk_list">
         <div class="col-lg-2">
           <h3>{{ .Key }}</h3>
         </div>
         <div class="col-lg-10">
 
           {{ range .Pages }}
+          <div class="talk-item{{ range .Params.tags }} tag-{{ . | urlize }}{{ end }}">
             {{ if eq $.Params.view 1 }}
               {{ partial "li_list" . }}
             {{ else if eq $.Params.view 3 }}
@@ -25,6 +32,7 @@
             {{ else }}
               {{ partial "li_compact" . }}
             {{ end }}
+          </div>
           {{ end }}
 
         </div>
@@ -35,5 +43,21 @@
   </div>
 
 </div>
+
+<script>
+  // Topic filter: hide talks without the selected tag, and years left empty.
+  document.getElementById('topic-select').addEventListener('change', function () {
+    var sel = this.value;
+    document.querySelectorAll('.talk-year').forEach(function (year) {
+      var shown = 0;
+      year.querySelectorAll('.talk-item').forEach(function (item) {
+        var match = !sel || item.matches(sel);
+        item.style.display = match ? '' : 'none';
+        shown += match;
+      });
+      year.style.display = shown ? '' : 'none';
+    });
+  });
+</script>
 
 {{- end -}}
