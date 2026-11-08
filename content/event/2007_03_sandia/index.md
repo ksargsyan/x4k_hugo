@@ -1,5 +1,6 @@
 ---
 title: Rare Events in Stochastic Systems
+slug: "rare-events-in-stochastic-systems-2007-03"
 authors: ["Khachik Sargsyan"]
 event: Invited Talk, Biological and Energy Sciences Center, Sandia National Laboratories
 event_url: 

@@ -1,5 +1,6 @@
 ---
 title: Uncertainty Quantification in Accelerated Climate Model for Energy
+slug: "uncertainty-quantification-in-accelerated-climate-model-for-energy-2016-05"
 authors: ["Khachik Sargsyan"]
 event: 8351 Department Meeting
 event_url: 

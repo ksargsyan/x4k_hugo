@@ -1,5 +1,6 @@
 ---
 title: Analysis of Neural Networks as Random Dynamical Systems
+slug: "analysis-of-neural-networks-as-random-dynamical-systems-2022-12"
 authors: ["Khachik Sargsyan"]
 event: LDRD Review
 event_url: 

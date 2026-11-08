@@ -1,5 +1,6 @@
 ---
 title: Uncertainty Quantification in Accelerated Climate Model for Energy
+slug: "uncertainty-quantification-in-accelerated-climate-model-for-energy-2015-12"
 authors: ["Khachik Sargsyan"]
 event: CRF Climate Team Celebration
 event_url: 

@@ -1,5 +1,6 @@
 ---
 title: Rare Events in Stochastic Systems
+slug: "rare-events-in-stochastic-systems-2007-01"
 authors: ["Khachik Sargsyan"]
 event: Invited Talk, Department of Applied Physics and Applied Mathematics, Columbia University
 event_url: 
