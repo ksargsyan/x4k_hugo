@@ -13,5 +13,5 @@ all_day:  false
 featured:  false
 math:  true
 url_pdf: "files/talks/2007_01_columbia.pdf"
-loc: "$WW/mytalks/columbia_Jan2007"
+loc: "$WW/mytalks/2004-2007/columbia_Jan2007"
 ---

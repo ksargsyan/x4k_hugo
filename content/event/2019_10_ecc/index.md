@@ -13,5 +13,5 @@ all_day:  false
 featured:  false
 math:  true
 url_pdf: "files/talks/2019_10_ecc.pdf"
-loc: "$WW/mytalks/MLtalk_Oct19"
+loc: "$WW/mytalks/2008-2020/MLtalk_Oct19"
 ---

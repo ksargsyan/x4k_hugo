@@ -13,5 +13,5 @@ all_day:  false
 featured:  false
 math:  true
 url_pdf: "files/talks/2017_02_probnum.pdf"
-loc: "$WW/mytalks/probnum_talk"
+loc: "$WW/mytalks/2008-2020/probnum_talk"
 ---

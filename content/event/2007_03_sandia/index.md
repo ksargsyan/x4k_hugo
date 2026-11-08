@@ -13,5 +13,5 @@ all_day:  false
 featured:  false
 math:  true
 url_pdf: "files/talks/2007_03_sandia.pdf"
-loc: "$WW/mytalks/sandia_Mar2007"
+loc: "$WW/mytalks/2004-2007/sandia_Mar2007"
 ---

@@ -13,5 +13,5 @@ all_day:  false
 featured:  false
 math:  true
 url_pdf: "files/talks/2004_03_vatech.pdf"
-loc: "$WW/mytalks/vatech_Mar2004"
+loc: "$WW/mytalks/2004-2007/vatech_Mar2004"
 ---

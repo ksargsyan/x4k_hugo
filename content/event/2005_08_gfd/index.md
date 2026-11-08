@@ -13,5 +13,5 @@ all_day:  false
 featured:  false
 math:  true
 url_pdf: "files/talks/2005_08_gfd.pdf"
-loc: "$WW/mytalks/gfd_Aug2005"
+loc: "$WW/mytalks/2004-2007/gfd_Aug2005"
 ---

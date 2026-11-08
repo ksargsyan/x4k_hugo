@@ -13,5 +13,5 @@ all_day:  false
 featured:  false
 math:  true
 url_pdf: "files/talks/2019_08_ciserb.pdf"
-loc: "$WW/mytalks/CIS_ERB"
+loc: "$WW/mytalks/2008-2020/CIS_ERB"
 ---

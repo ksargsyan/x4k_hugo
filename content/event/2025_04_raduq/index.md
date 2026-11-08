@@ -13,5 +13,5 @@ all_day:  false
 featured:  false
 math:  true
 url_pdf: "files/talks/2025_04_raduq.pdf"
-loc: "$WW/mytalks/RadUQ_mtg_Apr2025"
+loc: "$WW/projects/RadUQ/raduq/doc/inverse_Apr25"
 ---

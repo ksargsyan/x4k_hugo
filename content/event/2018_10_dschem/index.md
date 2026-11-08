@@ -13,5 +13,5 @@ all_day:  false
 featured:  false
 math:  true
 url_pdf: "files/talks/2018_10_dschem.pdf"
-loc: "$WW/mytalks/dschem_Oct18"
+loc: "$WW/mytalks/2008-2020/dschem_Oct18"
 ---

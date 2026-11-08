@@ -13,5 +13,5 @@ all_day:  false
 featured:  false
 math:  true
 url_pdf: "files/talks/2007_05_phddefense.pdf"
-loc: "$WW/mytalks/defense_May2007"
+loc: "$WW/mytalks/2004-2007/defense_May2007"
 ---
